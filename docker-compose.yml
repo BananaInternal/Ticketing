@@ -1,0 +1,57 @@
+version: '3'
+
+volumes:
+    banana_gitlab_data_config:
+    banana_gitlab_data_logs:
+    banana_gitlab_data_data:
+
+services:
+    web:
+        image: 'gitlab/gitlab-ce:13.4.3-ce.0'
+        container_name: 'banana_gitlab'
+        restart: 'always'
+        hostname: 'localhost'
+        environment:
+            GITLAB_OMNIBUS_CONFIG: |
+                # Backup
+                gitlab_rails['manage_backup_path'] = true
+                gitlab_rails['backup_path'] = '/var/opt/gitlab/backups'
+                gitlab_rails['backup_keep_time'] = 604800
+                # Email
+                ## Outgoing
+                gitlab_rails['gitlab_email_enabled'] = false
+                gitlab_rails['gitlab_email_enabled'] =  ''
+                gitlab_rails['gitlab_email_display_name'] = 'Banana Support Service'
+                gitlab_rails['gitlab_email_reply_to'] =  ''
+                gitlab_rails['smtp_enable'] = false
+                gitlab_rails['smtp_address'] = 'smtp.gmail.com'
+                gitlab_rails['smtp_port'] = 587
+                gitlab_rails['smtp_user_name'] = ''
+                gitlab_rails['smtp_password'] = ''
+                gitlab_rails['smtp_domain'] = 'smtp.gmail.com'
+                gitlab_rails['smtp_authentication'] = 'login'
+                gitlab_rails['smtp_enable_starttls_auto'] = true
+                gitlab_rails['smtp_tls'] = false
+                gitlab_rails['smtp_openssl_verify_mode'] = 'peer'
+                ## Incoming
+                gitlab_rails['incoming_email_enabled'] =  false
+                gitlab_rails['incoming_email_address'] =  'example+%{key}@gmail.com'
+                gitlab_rails['incoming_email_email'] = ''
+                gitlab_rails['incoming_email_password'] = ''
+                gitlab_rails['incoming_email_host'] = 'imap.gmail.com'
+                gitlab_rails['incoming_email_port'] = 993
+                gitlab_rails['incoming_email_ssl'] = true
+                gitlab_rails['incoming_email_start_tls'] = false
+                gitlab_rails['incoming_email_mailbox_name'] = 'inbox'
+                gitlab_rails['incoming_email_idle_timeout'] = 60
+                gitlab_rails['incoming_email_expunge_deleted'] = false
+                # SSH
+                gitlab_rails['gitlab_shell_ssh_port'] = 7402
+        ports:
+            - '80:80'
+            - '443:443'
+            - '7402:22'
+        volumes:
+            - 'banana_gitlab_data_config:/etc/gitlab'
+            - 'banana_gitlab_data_logs:/var/log/gitlab'
+            - 'banana_gitlab_data_data:/var/opt/gitlab'
