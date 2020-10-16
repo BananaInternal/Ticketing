@@ -1,0 +1,63 @@
+__label__osreq Funziona su tutti i sistemi operativi?
+__label__osreq Funziona su tutti i sistemi operativi?
+__label__osreq banana funziona su tutti i sistemi operativi?
+__label__osreq Banana funziona su tutti i sistemi operativi?
+__label__osreq Banana richiede un particolare sistema operativo?
+__label__osreq Quale sistema operativo è richiesto per Banana Contabilità?
+__label__osreq Il software Banana Accounting è disponibile per Android?
+__label__osreq Il software Banana Accounting è disponibile per Ubuntu?
+__label__osreq Il software funziona su tutti i sistemi operativi?
+__label__osreq Il software Banana Accounting è disponibile per MacOS?
+__label__osreq Posso installarlo sul mio iPad?
+__label__osreq Il software Banana Accounting è disponibile per iOS?
+__label__osreq Il software Banana Accounting è disponibile per Windows?
+__label__osreq Posso installarlo sul mio tablet?
+__label__osreq Il software Banana Accounting è disponibile per Mac?
+__label__osreq Banana funziona su tutti i sistemi operativi?
+__label__osreq Banana funziona su Mac?
+__label__osreq Banana funziona su Linux?
+__label__osreq Posso installarlo sul mio iPhone?
+__label__osreq Posso scaricare Banana gratuitamente sul mio iPhone?
+__label__osreq Il software funziona su Linux?
+__label__osreq Il software funziona su Android?
+__label__osreq Il software funziona su Windows XP?
+__label__osreq Posso installare il software Banana Accounting su Android?
+__label__osreq Quanti sistemi supporta il software Banana Accounting?
+__label__osreq Quanti sistemi sono supportati?
+__label__osreq Android è supportato?
+__label__osreq MacOS è supportato?
+__label__osreq La versione Android di Banana è gratuita?
+__label__osreq Linux è supportato?
+__label__osreq Ubuntu è supportato?
+__label__osreq Posso installare banana sul cellulare?
+__label__osreq Posso scaricare banana sul mio smartphone?
+__label__invoice Banana Accounting gestisce le fatture con il codice QR?
+__label__invoice Gestisce le fatture con il codice QR?
+__label__invoice Il software gestisce le fatture con il codice QR?
+__label__invoice Posso gestire le fatture con il codice QR?
+__label__invoice Il software supporta le fatture con codice QR?
+__label__invoice Posso lavorare con fatture con codici QR?
+__label__invoice È possibile la gestione delle fatture tramite codice QR?
+__label__invoice Banana Accounting supporta le fatture con codice QR?
+__label__invoice Banana supporta le fatture con codice QR?
+__label__invoice È disponibile la gestione delle fatture tramite codice QR?
+__label__invoice La gestione delle fatture tramite codice QR è disponibile nel software?
+__label__invoice La gestione delle fatture tramite codice QR è disponibile in Banana?
+__label__invoice La gestione delle fatture tramite codice QR è disponibile in banana Accounting +?
+__label__invoice Posso gestire le fatture con QR?
+__label__invoice Posso gestire le fatture con il codice QR?
+__label__invoice Come posso gestire le fatture?
+__label__invoice Le fatture con codice QR sono supportate?
+__label__invoice Le nuove fatture con codice QR sono supportate?
+__label__invoice Il programma supporta le fatture con codice QR?
+__label__invoice Posso lavorare sul software Banana con le nuove fatture con QR?
+__label__invoice Banana Contabilità + supporta le fatture con codice QR?
+__label__invoice Posso usare le fatture con codice QR su Banana?
+__label__invoice La gestione delle fatture tramite codice QR è disponibile nel software?
+__label__invoice Esiste un metodo per gestire il codice QR in Banana?
+__label__invoice Fattura con codice QR?
+__label__invoice Le fatture con codice QR sono gestibili nel software?
+__label__invoice Le fatture con codice QR sono accettate in Banana?
+__label__invoice Le fatture con codice QR sono disponibili?
+__label__invoice Le fatture con codice QR sono supportate?
+__label__invoice È possibile lavorare su QR Code Invoice?
