@@ -64,13 +64,13 @@ if __name__ == '__main__':
         "Puedo trabajar con el nuevo modelo de factura con QR Code?",
         "Puedo pagar desde Estados Unitos?",
         "Ist es von Windows unterstuzt?",
-         "Gibt es das Software auch fur Mac?",
-         "Kann ich es auf Android installieren?",
-         "Kann ich meine Rechnungen mit dem QR code machen?",
-         "Rechnungen mit QR Code?",
-         "Gibt es Rechnungen mit QR Code?",
-         "Gibt es Banana auch fur Linux?",
-         "Akzeptiert ihr bezahlungen via VISA?"
+        "Gibt es das Software auch fur Mac?",
+        "Kann ich es auf Android installieren?",
+        "Kann ich meine Rechnungen mit dem QR code machen?",
+        "Rechnungen mit QR Code?",
+        "Gibt es Rechnungen mit QR Code?",
+        "Gibt es Banana auch fur Linux?",
+        "Akzeptiert ihr bezahlungen via VISA?"
     ]
 
     print("-- Test --")

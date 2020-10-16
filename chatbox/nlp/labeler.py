@@ -28,7 +28,7 @@ class NlpLabeler(object):
                 results.append(labels[i].replace("__label__", ""))
         return results
 
-    def __get_model(self, language, force_train=False):
+    def __get_model(self, language):
         try:
             model = self.__models[language]
         except KeyError:
