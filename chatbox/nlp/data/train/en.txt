@@ -7,6 +7,8 @@ __label__osreq Which OS is required for Banana Accounting?
 __label__osreq Is Banana Accounting software available for Android?
 __label__osreq Is Banana Accounting software available for Ubuntu?
 __label__osreq Does the software work on all the operating Systems?
+__label__osreq Does your software work on all the operating Systems?
+__label__osreq Is your software available for MacOS?
 __label__osreq Is Banana Accounting software available for MacOS?
 __label__osreq Can I install it on my iPad?
 __label__osreq Is Banana Accounting software available for iOS?
@@ -31,6 +33,60 @@ __label__osreq Is Linux supported?
 __label__osreq Is Ubuntu supported?
 __label__osreq Can I install banana on mobile?
 __label__osreq Can I download banana on my smartphone?
+__label__quit Can I quit the paid plan?
+__label__quit Can I quit the paid plan that I have subscribed?
+__label__quit Can I close the plan I have paid?
+__label__quit Can I stop paying the plan I have chosen?
+__label__quit If I subscribe to one of the paid plans, can I quit when I want?
+__label__quit I want to quit the plan I have subscribed.
+__label__quit I want to quit the paid plan that I have chosen.
+__label__quit I want to stop renewing the paid plan I have chosen.
+__label__quit I want to stop renewing the paid plan I have subscribed.
+__label__quit I want to cancel the subscription to the paid plan.
+__label__quit I want to delete my subscription to the plan.
+__label__quit I want to delete my subscription to the paid plan.
+__label__quit Delete my subscription.
+__label__quit Delete the subscription to the paid plan.
+__label__quit Delete my paid plan.
+__label__quit Delete my paid plan subscription.
+__label__quit Can I delete my subscription?.
+__label__quit I want to end my subscription to the plan.
+__label__quit I want to quit/cancel my subscription to the plan.
+__label__quit Can I cancel the subscription to the paid plan?
+__label__quit Can I stop renewing the subscription to the paid plan?
+__label__quit Can the subscription to the paid plan be canceled?
+__label__quit Can I quit the subscription to the paid plan?
+__label__quit When can I cancel the subscription to the paid plan?
+__label__quit When can I delete the subscription to the paid plan?
+__label__quit Can I suppress the subscription to the paid plan?
+__label__quit Can I abort the subscription to the paid plan?
+__label__quit When can I quit the subscription to the paid plan?
+__label__quit Can I cancel my subscription to the paid plan?
+__label__switch Can I switch to the annual subscription?
+__label__switch Why switch to the annual subscription?
+__label__switch I want to switch to the annual subscription.
+__label__switch How much I will pay if I switch to the annual subscription?
+__label__switch Is the annual subscription expensive?
+__label__switch Are there any pros for switching to the annual subscription?
+__label__switch I am considering to switch to the annual subscription.
+__label__switch Annual subscription.
+__label__switch Switch to the annual subscription?
+__label__switch Advantages of switching to the annual subscription?
+__label__switch What I will get if I switch to the annual subscription?
+__label__switch How can I switch to the annual subscription?
+__label__switch Is there any annual subscription?
+__label__switch Can I switch to the annual subscription if I have already bought another plan?
+__label__switch Can I switch to the annual subscription if I have already a paid plan?
+__label__switch Can I switch to the annual subscription if I have subscribed another plan?
+__label__switch Is it convenient to switch to the annual subscription?
+__label__switch How can I get more information about the annual subscription?
+__label__switch Can I subscribe an annual plan?
+__label__switch I would like to switch to the annual plan subscription.
+__label__switch I was wondering about switching to the annual subscription.
+__label__switch Tell me if there are any advantages in switching to the annual subscription.
+__label__switch May I know whether there are any advantages in switching to the annual subscription?
+__label__switch Any suggestion for switching to the annual subscription?
+__label__switch May I ask how can I switch to the annual subscription?
 __label__invoice Does Banana Accounting manage invoices with the QR code?
 __label__invoice Does it manage invoices with the QR code?
 __label__invoice Does the software manage invoices with the QR code?
@@ -48,6 +104,9 @@ __label__invoice Can I manage invoices with QR?
 __label__invoice Can I manage invoices with QR code?
 __label__invoice How can I manage invoices?
 __label__invoice Are invoices with QR code supported?
+__label__invoice Is the new QR code invoice supported?
+__label__invoice Is the QR code invoice supported?
+__label__invoice Do invoices support QR Code?
 __label__invoice Are the new invoices with QR code supported?
 __label__invoice Does the program support invoices with QR code?
 __label__invoice Can I work on Banana software with the new invoices with QR?
@@ -61,7 +120,69 @@ __label__invoice Are QR code invoices accepted in Banana?
 __label__invoice Are QR Code Invoice available?
 __label__invoice Are QR Code Invoice supported?
 __label__invoice Is it possible to work on QR Code Invoice?
-__label__invoice Is it possible to work on QR Code Invoice?
-
+__label__creditcard Can I use VISA?
+__label__creditcard Can I use Amex?
+__label__creditcard Can I use American Express?
+__label__creditcard Can I use Bancomat?
+__label__creditcard Can I use Postepay?
+__label__creditcard Can I use Maestro?
+__label__creditcard Can I use prepaid card?
+__label__creditcard Can I use credit card?
+__label__creditcard Can I use bank card?
+__label__creditcard Can I use debit card?
+__label__creditcard Can I use MasterCard?
+__label__creditcard Do you accept VISA?
+__label__creditcard Do you accept Amex?
+__label__creditcard Do you accept American Express?
+__label__creditcard Do you accept Bancomat?
+__label__creditcard Do you accept Postepay?
+__label__creditcard Do you accept Maestro?
+__label__creditcard Do you accept prepaid card?
+__label__creditcard Do you accept credit card?
+__label__creditcard Do you accept bank card?
+__label__creditcard Do you accept debit card?
+__label__creditcard Do you accept MasterCard?
+__label__creditcard Can I purchase with my MasterCard?
+__label__creditcard Can I use PostFinance?
+__label__creditcard Can I use Amex to pay?
+__label__creditcard Can I pay with VISA?
+__label__creditcard Can I pay with Amex?
+__label__creditcard Can I pay with American Express?
+__label__creditcard Can I pay with Bancomat?
+__label__creditcard Can I pay with Postepay?
+__label__creditcard Can I pay with Maestro?
+__label__creditcard Can I pay with MasterCard?
+__label__creditcard Can I pay with my debit card?
+__label__creditcard Can I pay with my credit card?
+__label__creditcard Can I pay with my prepaid card?
+__label__creditcard Can I purchase with my MasterCard?
+__label__creditcard Can I pay with PostFinance?
+__label__creditcard Do you accept credit card payments?
+__label__creditcard Do you accept American Express credit card payments?
+__label__creditcard Can I pay Banana with my credit card?
+__label__creditcard Can I buy Banana with MasterCard?
+__label__creditcard Can I purchase with a credit card?
+__label__creditcard Can I purchase with a prepaid card?
+__label__creditcard Can I purchase with a debit card?
+__label__creditcard Can I purchase with a credit card outside Switzerland?
+__label__creditcard Can I purchase with a credit card in the Switzerland?
+__label__creditcard Can I use my credit card in Switzerland?
+__label__creditcard Can I purchase with a PostFinance outside the Swiss Federation?
+__label__creditcard Can I purchase with a PostFinance outside the Switzerland?
+__label__creditcard Do you accept payments from foreign countries?
+__label__creditcard Do you accept payments from abroad?
+__label__creditcard Do you accept payments from Italy?
+__label__creditcard Do you accept payments from Germany?
+__label__creditcard Do you accept payments from Portugal?
+__label__creditcard Do you accept payments from Greece?
+__label__creditcard Do you accept payments from Spain?
+__label__creditcard Do you accept payments from the USA?
+__label__creditcard Do you accept VISA payments?
+__label__creditcard Do you accept Amex payments?
+__label__creditcard Do you accept credit card payments?
+__label__creditcard Do you accept debit card payments?
+__label__creditcard Do you accept prepaid card payments?
+__label__creditcard Do you accept PostFinance card payments?
+__label__creditcard Do you accept card payments?
 
 

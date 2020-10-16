@@ -6,7 +6,7 @@ def get_language(text):
     language_probabilities = detect_langs(text)
     best_lang = Language(
         None,
-        0.9  # Minimum probability
+        0.8  # Minimum probability
     )
     for item in language_probabilities:
         print(item.lang, end=" ")

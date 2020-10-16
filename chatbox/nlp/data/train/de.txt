@@ -1,0 +1,184 @@
+__label__osreq Funktioniert es auf allen Betriebssystemen?
+__label__osreq Funktioniert es unter allen Betriebssystemen?
+__label__osreq Funktioniert Banane unter allen Betriebssystemen?
+__label__osreq Funktioniert Banana auf allen Betriebssystemen?
+__label__osreq Benötigt Banane ein bestimmtes Betriebssystem?
+__label__osreq Welches Betriebssystem wird für die Bananenbuchhaltung benötigt?
+__label__osreq Ist die Banana Accounting-Software für Android verfügbar?
+__label__osreq Ist die Banana Accounting-Software für Ubuntu verfügbar?
+__label__osreq Funktioniert die Software auf allen Betriebssystemen?
+__label__osreq Funktioniert Ihre Software auf allen Betriebssystemen?
+__label__osreq Ist Ihre Software für MacOS verfügbar?
+__label__osreq Ist die Banana Accounting-Software für MacOS verfügbar?
+__label__osreq Kann ich es auf meinem iPad installieren?
+__label__osreq Ist die Banana Accounting-Software für iOS verfügbar?
+__label__osreq Ist die Banana Accounting-Software für Windows verfügbar?
+__label__osreq Kann ich es auf meinem Tablet installieren?
+__label__osreq Ist die Banana Accounting-Software für Mac verfügbar?
+__label__osreq Läuft Banana auf allen Betriebssystemen?
+__label__osreq Läuft Banana auf einem Mac?
+__label__osreq Läuft Banana unter Linux?
+__label__osreq Kann ich es auf meinem iPhone installieren?
+__label__osreq Kann ich Banana kostenlos auf mein iPhone herunterladen?
+__label__osreq Läuft die Software unter Linux?
+__label__osreq Läuft die Software unter Android?
+__label__osreq Läuft die Software unter Windows XP?
+__label__osreq Kann ich die Banana Accounting-Software auf Android installieren?
+__label__osreq Wie viele Systeme unterstützt die Banana Accounting-Software?
+__label__osreq Wie viele Systeme werden unterstützt?
+__label__osreq Wird Android unterstützt?
+__label__osreq Wird MacOS unterstützt?
+__label__osreq Ist die Android-Version von Banana kostenlos?
+__label__osreq Wird Linux unterstützt?
+__label__osreq Wird Ubuntu unterstützt?
+__label__osreq Kann ich Banane auf Mobilgeräten installieren?
+__label__osreq Kann ich Bananen auf mein Smartphone herunterladen?
+__label__quit Kann ich den bezahlten Plan kündigen?
+__label__quit Kann ich den bezahlten Plan, den ich abonniert habe, kündigen?
+__label__quit Kann ich den von mir bezahlten Plan schließen?
+__label__quit Kann ich den von mir gewählten Plan nicht mehr bezahlen?
+__label__quit Kann ich kündigen, wenn ich einen der bezahlten Pläne abonniere, wenn ich möchte?
+__label__quit Ich möchte den von mir abonnierten Plan beenden.
+__label__quit Ich möchte den von mir gewählten bezahlten Plan beenden.
+__label__quit Ich möchte die Erneuerung des von mir gewählten bezahlten Plans beenden.
+__label__quit Ich möchte die Erneuerung des von mir abonnierten bezahlten Plans beenden.
+__label__quit Ich möchte das Abonnement für den kostenpflichtigen Plan kündigen.
+__label__quit Ich möchte mein Abonnement für den Plan löschen.
+__label__quit Ich möchte mein Abonnement für den Plan beenden.
+__label__quit Ich möchte mein Abonnement für den Plan kündigen / kündigen.
+__label__quit Kann ich das Abonnement für den bezahlten Plan kündigen?
+__label__quit Kann ich die Verlängerung des Abonnements für den kostenpflichtigen Tarif beenden?
+__label__quit Kann das Abonnement für den bezahlten Plan gekündigt werden?
+__label__quit Kann ich das Abonnement für den kostenpflichtigen Plan kündigen?
+__label__quit Wann kann ich das Abonnement für den kostenpflichtigen Tarif kündigen?
+__label__quit Wann kann ich das Abonnement für den kostenpflichtigen Tarif löschen?
+__label__quit Kann ich das Abonnement für den kostenpflichtigen Plan unterdrücken?
+__label__quit Kann ich das Abonnement für den bezahlten Plan abbrechen?
+__label__quit Wann kann ich das Abonnement für den kostenpflichtigen Tarif kündigen?
+__label__quit Kann ich mein Abonnement für den kostenpflichtigen Tarif kündigen?
+__label__switch Kann ich zum Jahresabonnement wechseln?
+__label__switch Warum zum Jahresabonnement wechseln?
+__label__switch Ich möchte zum Jahresabonnement wechseln.
+__label__switch Wie viel bezahle ich, wenn ich zum Jahresabonnement wechsle?
+__label__switch Ist das Jahresabonnement teuer?
+__label__switch Gibt es Profis für den Wechsel zum Jahresabonnement?
+__label__switch Ich überlege, auf das Jahresabonnement umzusteigen.
+__label__switch Jahresabonnement.
+__label__switch Zum Jahresabonnement wechseln?
+__label__switch Vorteile des Wechsels zum Jahresabonnement?
+__label__switch Was bekomme ich, wenn ich zum Jahresabonnement wechsle?
+__label__switch Wie kann ich zum Jahresabonnement wechseln?
+__label__switch Gibt es ein Jahresabonnement?
+__label__switch Kann ich zum Jahresabonnement wechseln, wenn ich bereits einen anderen Tarif gekauft habe?
+__label__switch Kann ich zum Jahresabonnement wechseln, wenn ich bereits einen bezahlten Plan habe?
+__label__switch Kann ich zum Jahresabonnement wechseln, wenn ich einen anderen Plan abonniert habe?
+__label__switch Ist es bequem, zum Jahresabonnement zu wechseln?
+__label__switch Wie kann ich weitere Informationen zum Jahresabonnement erhalten?
+__label__switch Kann ich einen Jahresplan abonnieren?
+__label__switch Ich möchte zum Jahresplanabonnement wechseln.
+__label__switch Ich habe mich gefragt, ob ich zum Jahresabonnement wechseln soll.
+__label__switch Sagen Sie mir, ob der Wechsel zum Jahresabonnement Vorteile bietet.
+__label__switch Darf ich wissen, ob der Wechsel zum Jahresabonnement Vorteile bringt?
+__label__switch Irgendwelche Vorschläge für den Wechsel zum Jahresabonnement?
+__label__switch Darf ich fragen, wie ich zum Jahresabonnement wechseln kann?
+__label__invoice Verwaltet Banana Accounting Rechnungen mit dem QR-Code?
+__label__invoice Verwaltet es Rechnungen mit dem QR-Code?
+__label__invoice Verwaltet die Software Rechnungen mit dem QR-Code?
+__label__invoice Kann ich Rechnungen mit dem QR-Code verwalten?
+__label__invoice Unterstützt die Software Rechnungen mit QR-Code?
+__label__invoice Kann ich mit Rechnungen mit QR-Codes arbeiten?
+__label__invoice Ist eine QR-Code-Rechnungsverwaltung möglich?
+__label__invoice Unterstützt Banana Accounting Rechnungen mit QR-Code?
+__label__invoice Unterstützt Banana Rechnungen mit QR-Code?
+__label__invoice Ist die Rechnungsverwaltung für QR-Codes verfügbar?
+__label__invoice Ist die QR-Code-Rechnungsverwaltung in der Software verfügbar?
+__label__invoice Ist die QR-Code-Rechnungsverwaltung in Banana verfügbar?
+__label__invoice Ist die QR-Code-Rechnungsverwaltung in Banana Accounting + verfügbar?
+__label__invoice Kann ich Rechnungen mit QR verwalten?
+__label__invoice Kann ich Rechnungen mit QR-Code verwalten?
+__label__invoice Wie kann ich Rechnungen verwalten?
+__label__invoice Werden Rechnungen mit QR-Code unterstützt?
+__label__invoice Wird die neue QR-Code-Rechnung unterstützt?
+__label__invoice Wird die QR-Code-Rechnung unterstützt?
+__label__invoice Unterstützen Rechnungen den QR-Code?
+__label__invoice Werden die neuen Rechnungen mit QR-Code unterstützt?
+__label__invoice Unterstützt das Programm Rechnungen mit QR-Code?
+__label__invoice Kann ich mit den neuen Rechnungen mit QR an Bananensoftware arbeiten?
+__label__invoice Unterstützt Banana Accounting + Rechnungen mit QR-Code?
+__label__invoice Kann ich QR-Code-Rechnungen für Bananen verwenden?
+__label__invoice Ist die QR-Code-Rechnungsverwaltung in der Software verfügbar?
+__label__invoice Gibt es eine Methode zum Verwalten von QR-Code in Banana?
+__label__invoice QR Code Rechnung?
+__label__invoice Sind QR-Code-Rechnungen in der Software verwaltbar?
+__label__invoice Werden QR-Code-Rechnungen in Banana akzeptiert?
+__label__invoice Sind QR-Code-Rechnungen verfügbar?
+__label__invoice Wird die QR-Code-Rechnung unterstützt?
+__label__invoice Ist es möglich, an der QR-Code-Rechnung zu arbeiten?
+__label__creditcard Kann ich VISA verwenden?
+__label__creditcard Kann ich Amex verwenden?
+__label__creditcard Kann ich American Express verwenden?
+__label__creditcard Kann ich Bancomat verwenden?
+__label__creditcard Kann ich Postepay verwenden?
+__label__creditcard Kann ich Maestro verwenden?
+__label__creditcard Kann ich eine Prepaid-Karte verwenden?
+__label__creditcard Kann ich eine Kreditkarte verwenden?
+__label__creditcard Kann ich eine Bankkarte verwenden?
+__label__creditcard Kann ich eine Debitkarte verwenden?
+__label__creditcard Kann ich MasterCard verwenden?
+__label__creditcard Akzeptieren Sie VISA?
+__label__creditcard Akzeptieren Sie Amex?
+__label__creditcard Akzeptieren Sie American Express?
+__label__creditcard Akzeptieren Sie Bancomat?
+__label__creditcard Akzeptieren Sie Postepay?
+__label__creditcard Akzeptieren Sie Maestro?
+__label__creditcard Akzeptieren Sie Prepaid-Karten?
+__label__creditcard Akzeptieren Sie Kreditkarten?
+__label__creditcard Akzeptieren Sie eine Bankkarte?
+__label__creditcard Akzeptieren Sie Debitkarten?
+__label__creditcard Akzeptieren Sie MasterCard?
+__label__creditcard Kann ich mit meiner MasterCard kaufen?
+__label__creditcard Kann ich PostFinance verwenden?
+__label__creditcard Kann ich mit Amex bezahlen?
+__label__creditcard Kann ich mit VISA bezahlen?
+__label__creditcard Kann ich mit Amex bezahlen?
+__label__creditcard Kann ich mit American Express bezahlen?
+__label__creditcard Kann ich mit Bancomat bezahlen?
+__label__creditcard Kann ich mit Postepay bezahlen?
+__label__creditcard Kann ich mit Maestro bezahlen?
+__label__creditcard Kann ich mit MasterCard bezahlen?
+__label__creditcard Kann ich mit meiner Debitkarte bezahlen?
+__label__creditcard Kann ich mit meiner Kreditkarte bezahlen?
+__label__creditcard Akzeptiert ihr bezahlungen via VISA?
+__label__creditcard Akzeptiert ihr bezahlungen via Maestro?
+__label__creditcard Akzeptiert ihr bezahlungen via MasterCard?
+__label__creditcard Akzeptiert ihr bezahlungen via PosteFinance?
+__label__creditcard Kann ich mit meiner Prepaid-Karte bezahlen?
+__label__creditcard Kann ich mit meiner MasterCard kaufen?
+__label__creditcard Kann ich mit PostFinance bezahlen?
+__label__creditcard Akzeptieren Sie Kreditkartenzahlungen?
+__label__creditcard Akzeptieren Sie Kreditkartenzahlungen von American Express?
+__label__creditcard Kann ich Banana mit meiner Kreditkarte bezahlen?
+__label__creditcard Kann ich Banane mit MasterCard kaufen?
+__label__creditcard Kann ich mit einer Kreditkarte kaufen?
+__label__creditcard Kann ich mit einer Prepaid-Karte kaufen?
+__label__creditcard Kann ich mit einer Debitkarte kaufen?
+__label__creditcard Kann ich mit einer Kreditkarte außerhalb der Schweiz einkaufen?
+__label__creditcard Kann ich in der Schweiz mit einer Kreditkarte einkaufen?
+__label__creditcard Kann ich meine Kreditkarte in der Schweiz verwenden?
+__label__creditcard Kann ich mit einer PostFinance außerhalb der Schweizerischen Föderation einkaufen?
+__label__creditcard Kann ich mit einer PostFinance außerhalb der Schweiz einkaufen?
+__label__creditcard Akzeptieren Sie Zahlungen aus dem Ausland?
+__label__creditcard Akzeptieren Sie Zahlungen aus dem Ausland?
+__label__creditcard Akzeptieren Sie Zahlungen aus Italien?
+__label__creditcard Akzeptieren Sie Zahlungen aus Deutschland?
+__label__creditcard Akzeptieren Sie Zahlungen aus Portugal?
+__label__creditcard Akzeptieren Sie Zahlungen aus Griechenland?
+__label__creditcard Akzeptieren Sie Zahlungen aus Spanien?
+__label__creditcard Akzeptieren Sie Zahlungen aus den USA?
+__label__creditcard Akzeptieren Sie VISA-Zahlungen?
+__label__creditcard Akzeptieren Sie Amex-Zahlungen?
+__label__creditcard Akzeptieren Sie Kreditkartenzahlungen?
+__label__creditcard Akzeptieren Sie Debitkartenzahlungen?
+__label__creditcard Akzeptieren Sie Prepaid-Kartenzahlungen?
+__label__creditcard Akzeptieren Sie PostFinance-Kartenzahlungen?
+__label__creditcard Akzeptieren Sie Kartenzahlungen?
