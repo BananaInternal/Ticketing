@@ -71,7 +71,11 @@ if __name__ == '__main__':
         "Gibt es Rechnungen mit QR Code?", "de",
         "Gibt es Banana auch fur Linux?", "de",
         "Akzeptiert ihr bezahlungen via VISA?", "de",
-        "Angenommen ich installiere Banana nicht auf meinen PC sondern über meinen PC auf einem separaten Speicher und gebe den Lizenzschlüssel ein, funktioniert dann Banana auch noch wenn ich den separaten Speicher an einem anderen PC einstecke", "de"
+        "Angenommen ich installiere Banana nicht auf meinen PC sondern über meinen PC auf einem separaten Speicher und gebe den Lizenzschlüssel ein, funktioniert dann Banana auch noch wenn ich den separaten Speicher an einem anderen PC einstecke", "de",
+        "Guten morgen, Ich musst mir einen neuen Computer zulegen. Ich kann aber auf meinem alten Laptop den Lizenzschlüssel nicht komplett lesen. Wie muss ich vorgehen, dass ich den Lizenzschlüssel auf dem neuen Laptop eingeben kann? ", "de",
+        "Good morning, I would like to install Banana software on my iPad. Does this program run on iOS? Thank you, God bless you", "en",
+        "To whom it may concern. Good morning/afternoon/evening sir/madam, it depends on when you red that emmail. Me like to know if or whether or weter ai chen work with invoices that supports qr code. tykbye", "en"
+
     ]
 
     print("-- Test --")

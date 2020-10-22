@@ -44,7 +44,7 @@ class NlpLabeler(object):
                     )
                 # Train the model
                 model = ft.train_supervised(input=train_path,
-                                            epoch=25)
+                                            epoch=30)
                 # model.save_model(model_path)  # TODO: investigate why this method is unreliable
 
             self.__models[language] = model

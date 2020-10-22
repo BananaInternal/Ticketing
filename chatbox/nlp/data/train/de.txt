@@ -197,3 +197,33 @@ __label__installation Oder muss ich ein spezielles Verfahren wählen, um Ihnen z
 __label__installation Wie viel würde eine Lizenz für 2 Computer kosten?
 __label__installation kann ich 1 Lizenz kaufen aber an 2 Computer verwenden
 __label__installation Angenommen ich installiere Banana nicht auf meinen PC sondern über meinen PC auf einem separaten Speicher
+__label__lizenzschlussel-verloren Ich suche meinen Lizenzschlüssel. Unter "arthur.grossen@bluewin.ch" kommt die Meldung keinen Schlüssel gefunden. Ist es möglich, dass meine "Banana9" Buchhaltung für Fr. 129.00 noch gar nicht bezahlt ist, obwohl ich schon seit April damit arbeite? 
+__label__lizenzschlussel-verloren Lizenzschlüssel Verloren 
+__label__lizenzschlussel-verloren Lizenzschlussel verloren
+__label__lizenzschlussel-verloren Ich schon seit April damit arbeite? 
+__label__lizenzschlussel-verloren Wir haben vor Jahren eine Banana Lizenz für die Version 8 gekauft, für die inzwischen aufgelöste Firma "Mountainbike Parts Langer & Co" in die "velotec.ch GmbH". Seither haben wir die Lizenz für die Nachfolger-Firma "velotec.ch GmbH" genutzt. Nun haben wir die IT Geräte und Mailserver geändert und leider kann ich die damalige Mail mit dem Lizenzschlüssel nicht mehr finden, um den Lizenzschlüssel für die Neuinstallation von Banana einzutragen. Wären Sie so freundlich und könnten Sie mir die Mail mit dem Lizenschlüssel nochmals senden? Die damalige Mail war vermutlich entweder info@mountainbike-parts.ch oder info@velotec.ch (falls bereits mit der Nachfolger-Firma bestellt). Gerne können Sie den Lizenz an die gleiche damalige Mail nochmals senden. 
+__label__lizenzschlussel-verloren in ihrer support-info steht, dass man telefonischen support erhält, wenn man registriert ist. dürfte ich die telefonnummer wissen?
+__label__lizenzschlussel-verloren mein problem: ich habe letztes jahr ein upgrade von banana 8 auf banana 9 gemacht. nun möchte ich banana 9 auf meinem neuen computer installiere, finde jedoch nur den lizenz-schlüssel für banana-8. können sie mir den lizenz-schlüssel fürs banana 9 nennen?
+__label__lizenzschlussel-verloren in ihrer support-info steht, dass man telefonischen support erhält, wenn man registriert ist. dürfte ich die telefonnummer wissen? mein problem: ich habe letztes jahr ein upgrade von banana 8 auf banana 9 gemacht. nun möchte ich banana 9 auf meinem neuen computer installiere, finde jedoch nur den lizenz-schlüssel für banana-8. können sie mir den lizenz-schlüssel fürs banana 9 nennen?
+__label__lizenzschlussel-verloren ich habe ca. vor zwei Jahren die Vollversion über Google gekauft. Da ich ein neues Gerät gekauft habe, ist bei mir die Vollversion nicht mehr drauf. Ich bräuchte die alte Lizenznummer damit ich die Vollversion wieder brauchen kann.
+__label__lizenzschlussel-verloren Gerne möchten wir unser Banana-Programm auf die neuste Version updaten. Da ich erst ein Jahr damit arbeite, weiss ich nicht, wo ich den Lizenz-Schlüssel finden kann. Im Anhang sende ich Ihnen ein Dokument, welches Angaben zur Registration beinhaltet. Die dort angegebene Mailadresse existiert aber schon lange nicht mehr. Auch die Postadresse stimmt nicht mehr. Das Programm wird auch weiterhin für die Pannendienstorganisation verwendet. Können Sie mir sagen, wo ich den Lizenzschlüssel finden kann oder wie ich das Programm anders auf die neuste Version updaten kann? Ich bin jeweils dienstags und donnerstags im Büro. 
+__label__lizenzschlussel-verloren Können Sie mir sagen, wo ich den Lizenzschlüssel finden kann oder wie ich das Programm anders auf die neuste Version updaten kann?
+__label__lizenzschlussel-verloren Ich finde den Lizenzschlüssel nicht mehr und weiss leider auch nicht mehr auf welche Mailadresse ich diese bestellt habe 
+Ich habe einen Lizenz für Jubla Thurgau, Adrian Schürch. dieser Code habe ich. Jedoch habe ich letzten Herbst eine Neue Lizenz erworben für meine Mutter, und diesen Schlüssel finde ich nicht mehr.
+__label__lizenzschlussel-verloren Ich musst mir einen neuen Computer zulegen. Ich kann aber auf meinem alten Laptop den Lizenzschlüssel nicht komplett lesen. Wie muss ich vorgehen, dass ich den Lizenzschlüssel auf dem neuen Laptop eingeben kann? 
+__label__lizenzschlussel-verloren Können wir das Programm auf dem neuen Laptop herunterladen und die gleiche Lizenz wieder eingeben? 
+__label__lizenzschlussel-verloren Falls ja, können Sie mir die entsprechende Anleitung zustellen? 
+__label__lizenzschlussel-verloren Können wir das Programm auf dem neuen Laptop herunterladen und die gleiche Lizenz wieder eingeben? Falls ja, können Sie mir die entsprechende Anleitung zustellen? (bzw. den Lizenzschlüssel erneut senden) Auf dem alten Laptop wird das Programm danach nicht mehr verwendet. __label__lizenzschlussel-verloren  
+__label__lizenzschlussel-verloren Ich habe mir einen neuen Computr gekauft und möchte nun die Banana Software darauf installieren. Leider kann ich meinen Lizenz-Schlüssel nicht mehr finden.  
+__label__lizenzschlussel-verloren ich haben meinen Computer gewechselt und sollte meinen Liznezschlüssel nochmals bekommen. Meine Registrierungscode lautet:
+__label__lizenzschlussel-verloren Registrierungscode lautet. 
+__label__lizenzschlussel-verloren Registrierungscode.
+__label__lizenzschlussel-verloren Wegen Firmeninternen Umstrukturierungen wäre ich darauf angewiesen die bananabuchhaltung auf einen weiteren Computer zu installieren. Bis anhin ist die Buchhaltung nur auf einem Computer installiert worden. Meine Mitarbeiterin hat jedoch das Mail mit dem Lizensschlüssel gelöst! Können Sie mir meinen Lizenzschlüssel nochmals zusenden?  
+__label__lizenzschlussel-verloren Gerne möchten wir das Program auf einem neuen PC instalieren und auf dem alten löschen. Hierfür benötigen wir jedoch nochmals den Lizenzschlüssel. Darf ich sie bitten, diesen nochmals bekannt zu geben. Diesen Lizenzschlüssel wird vermutlich
+__label__lizenzschlussel-verloren um mein Banana updaten zu können brauche ich meinen Lizenzschlüssel, den ich leider nicht mehr finde. 
+__label__lizenzschlussel-verloren diesen Lizenzschlüssel wird vermutlich 
+__label__lizenzschlussel-verloren Ich kann leider meinen Lizenzschlüssel nicht mehr finden.   
+__label__lizenzschlussel-verloren Können Sie mir bitte eine Kopie senden?  
+__label__lizenzschlussel-verloren Ich kann leider meinen Lizenzschlüssel nicht mehr finden. Können Sie mir bitte eine Kopie senden?     
+__label__lizenzschlussel-verloren Liznezschlüssel 
+__label__lizenzschlussel-verloren Liznezschlussel 

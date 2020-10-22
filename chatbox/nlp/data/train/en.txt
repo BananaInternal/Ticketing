@@ -1,188 +1,188 @@
-__label__osreq Does it work on all operating systems?
-__label__osreq Does it work on all OS?
-__label__osreq Does banana work on all OS?
-__label__osreq Does Banana work on all the operating Systems?
-__label__osreq Does banana require a particular OS?
-__label__osreq Which OS is required for Banana Accounting?
-__label__osreq Is Banana Accounting software available for Android?
-__label__osreq Is Banana Accounting software available for Ubuntu?
-__label__osreq Does the software work on all the operating Systems?
-__label__osreq Does your software work on all the operating Systems?
-__label__osreq Is your software available for MacOS?
-__label__osreq Is Banana Accounting software available for MacOS?
-__label__osreq Can I install it on my iPad?
-__label__osreq Is Banana Accounting software available for iOS?
-__label__osreq Is Banana Accounting software available for Windows?
-__label__osreq Can I install it on my tablet?
-__label__osreq Is Banana Accounting software available for Mac?
-__label__osreq Does Banana run on all OS?
-__label__osreq Does Banana run on Mac?
-__label__osreq Does Banana run on Linux?
-__label__osreq Can I install it on my iPhone?
-__label__osreq Can I download Banana on my iPhone for free?
-__label__osreq Does the software run on Linux?
-__label__osreq Does the software run on Android?
-__label__osreq Does the software run on Windows XP?
-__label__osreq Can I install Banana Accounting software on Android?
-__label__osreq How many systems does Banana Accounting software support?
-__label__osreq How many systems are supported?
-__label__osreq Is Android supported?
-__label__osreq Is MacOS supported?
-__label__osreq Is Android version of Banana free?
-__label__osreq Is Linux supported?
-__label__osreq Is Ubuntu supported?
-__label__osreq Can I install banana on mobile?
-__label__osreq Can I download banana on my smartphone?
-__label__quit Can I quit the paid plan?
-__label__quit Can I quit the paid plan that I have subscribed?
-__label__quit Can I close the plan I have paid?
-__label__quit Can I stop paying the plan I have chosen?
-__label__quit If I subscribe to one of the paid plans, can I quit when I want?
-__label__quit I want to quit the plan I have subscribed.
-__label__quit I want to quit the paid plan that I have chosen.
-__label__quit I want to stop renewing the paid plan I have chosen.
-__label__quit I want to stop renewing the paid plan I have subscribed.
-__label__quit I want to cancel the subscription to the paid plan.
-__label__quit I want to delete my subscription to the plan.
-__label__quit I want to delete my subscription to the paid plan.
-__label__quit Delete my subscription.
-__label__quit Delete the subscription to the paid plan.
-__label__quit Delete my paid plan.
-__label__quit Delete my paid plan subscription.
-__label__quit Can I delete my subscription?.
-__label__quit I want to end my subscription to the plan.
-__label__quit I want to quit/cancel my subscription to the plan.
-__label__quit Can I cancel the subscription to the paid plan?
-__label__quit Can I stop renewing the subscription to the paid plan?
-__label__quit Can the subscription to the paid plan be canceled?
-__label__quit Can I quit the subscription to the paid plan?
-__label__quit When can I cancel the subscription to the paid plan?
-__label__quit When can I delete the subscription to the paid plan?
-__label__quit Can I suppress the subscription to the paid plan?
-__label__quit Can I abort the subscription to the paid plan?
-__label__quit When can I quit the subscription to the paid plan?
-__label__quit Can I cancel my subscription to the paid plan?
-__label__switch Can I switch to the annual subscription?
-__label__switch Why switch to the annual subscription?
-__label__switch I want to switch to the annual subscription.
-__label__switch How much I will pay if I switch to the annual subscription?
-__label__switch Is the annual subscription expensive?
-__label__switch Are there any pros for switching to the annual subscription?
-__label__switch I am considering to switch to the annual subscription.
-__label__switch Annual subscription.
-__label__switch Switch to the annual subscription?
-__label__switch Advantages of switching to the annual subscription?
-__label__switch What I will get if I switch to the annual subscription?
-__label__switch How can I switch to the annual subscription?
-__label__switch Is there any annual subscription?
-__label__switch Can I switch to the annual subscription if I have already bought another plan?
-__label__switch Can I switch to the annual subscription if I have already a paid plan?
-__label__switch Can I switch to the annual subscription if I have subscribed another plan?
-__label__switch Is it convenient to switch to the annual subscription?
-__label__switch How can I get more information about the annual subscription?
-__label__switch Can I subscribe an annual plan?
-__label__switch I would like to switch to the annual plan subscription.
-__label__switch I was wondering about switching to the annual subscription.
-__label__switch Tell me if there are any advantages in switching to the annual subscription.
-__label__switch May I know whether there are any advantages in switching to the annual subscription?
-__label__switch Any suggestion for switching to the annual subscription?
-__label__switch May I ask how can I switch to the annual subscription?
-__label__invoice Does Banana Accounting manage invoices with the QR code?
-__label__invoice Does it manage invoices with the QR code?
-__label__invoice Does the software manage invoices with the QR code?
-__label__invoice Can I manage invoices with the QR code?
-__label__invoice Does the software support invoices with QR code?
-__label__invoice Can I work with invoices with QR codes?
-__label__invoice Is QR code invoice management possible?
-__label__invoice Does Banana Accounting support invoices with QR code?
-__label__invoice Does Banana support invoices with QR code?
-__label__invoice Is QR code invoice management available?
-__label__invoice Is QR code invoice management available in the software?
-__label__invoice Is QR code invoice management available in Banana?
-__label__invoice Is QR code invoice management available in banana Accounting +?
-__label__invoice Can I manage invoices with QR?
-__label__invoice Can I manage invoices with QR code?
-__label__invoice How can I manage invoices?
-__label__invoice Are invoices with QR code supported?
-__label__invoice Is the new QR code invoice supported?
-__label__invoice Is the QR code invoice supported?
-__label__invoice Do invoices support QR Code?
-__label__invoice Are the new invoices with QR code supported?
-__label__invoice Does the program support invoices with QR code?
-__label__invoice Can I work on Banana software with the new invoices with QR?
-__label__invoice Does Banana Accounting + support invoices with QR code?
-__label__invoice Can I use QR code invoices on Banana?
-__label__invoice Is QR code invoice management available in the software?
-__label__invoice Is there a method to manage QR code in Banana?
+__label__osreq work all operating systems?
+__label__osreq work all OS?
+__label__osreq banana work all OS?
+__label__osreq Banana work all operating Systems?
+__label__osreq banana require particular OS?
+__label__osreq Which OS required Banana Accounting?
+__label__osreq Banana Accounting software available Android?
+__label__osreq Banana Accounting software available Ubuntu?
+__label__osreq software work all operating Systems?
+__label__osreq your software work all operating Systems?
+__label__osreq your software available MacOS?
+__label__osreq Banana Accounting software available MacOS?
+__label__osreq install iPad?
+__label__osreq Banana Accounting software available iOS?
+__label__osreq Banana Accounting software available Windows?
+__label__osreq install tablet?
+__label__osreq Banana Accounting software available Mac?
+__label__osreq Banana run all OS?
+__label__osreq Banana run Mac?
+__label__osreq Banana run Linux?
+__label__osreq install iPhone?
+__label__osreq download Banana iPhone free?
+__label__osreq software run Linux?
+__label__osreq software run Android?
+__label__osreq software run Windows XP?
+__label__osreq install Banana Accounting software Android?
+__label__osreq many systems Banana Accounting software support?
+__label__osreq many systems supported?
+__label__osreq Android supported?
+__label__osreq MacOS supported?
+__label__osreq Android version of Banana free?
+__label__osreq Linux supported?
+__label__osreq Ubuntu supported?
+__label__osreq install banana mobile?
+__label__osreq download banana smartphone?
+__label__quit quit paid plan?
+__label__quit quit paid plan that subscribed?
+__label__quit close plan paid?
+__label__quit stop paying plan chosen?
+__label__quit subscribe one of paid plans, quit when want?
+__label__quit quit plan subscribed
+__label__quit quit paid plan that chosen
+__label__quit stop renewing paid plan chosen
+__label__quit stop renewing paid plan subscribed
+__label__quit cancel subscription paid plan
+__label__quit delete subscription plan
+__label__quit delete subscription paid plan
+__label__quit Delete subscription
+__label__quit Delete subscription paid plan
+__label__quit Delete paid plan
+__label__quit Delete paid plan subscription
+__label__quit delete subscription?
+__label__quit end subscription plan
+__label__quit quit/cancel subscription plan
+__label__quit cancel subscription paid plan?
+__label__quit stop renewing subscription paid plan?
+__label__quit Can subscription paid plan be canceled?
+__label__quit quit subscription paid plan?
+__label__quit When cancel subscription paid plan?
+__label__quit When delete subscription paid plan?
+__label__quit suppress subscription paid plan?
+__label__quit abort subscription paid plan?
+__label__quit When quit subscription paid plan?
+__label__quit cancel subscription paid plan?
+__label__switch switch annual subscription?
+__label__switch Why switch annual subscription?
+__label__switch switch annual subscription
+__label__switch much will pay switch annual subscription?
+__label__switch annual subscription expensive?
+__label__switch pros switching annual subscription?
+__label__switch considering switch annual subscription
+__label__switch Annual subscription
+__label__switch Switch annual subscription?
+__label__switch Advantages of switching annual subscription?
+__label__switch What will get switch annual subscription?
+__label__switch switch annual subscription?
+__label__switch annual subscription?
+__label__switch switch annual subscription bought another plan?
+__label__switch switch annual subscription paid plan?
+__label__switch switch annual subscription subscribed another plan?
+__label__switch convenient switch annual subscription?
+__label__switch get more information about annual subscription?
+__label__switch subscribe an annual plan?
+__label__switch would like switch annual plan subscription
+__label__switch was wondering about switching annual subscription
+__label__switch advantages switching annual subscription
+__label__switch advantages switching annual subscription?
+__label__switch suggestion switching annual subscription?
+__label__switch switch annual subscription?
+__label__invoice Banana Accounting manage invoices QR code?
+__label__invoice manage invoices QR code?
+__label__invoice software manage invoices QR code?
+__label__invoice manage invoices QR code?
+__label__invoice software support invoices QR code?
+__label__invoice work invoices QR codes?
+__label__invoice QR code invoice management possible?
+__label__invoice Banana Accounting support invoices QR code?
+__label__invoice Banana support invoices QR code?
+__label__invoice QR code invoice management available?
+__label__invoice QR code invoice management available software?
+__label__invoice QR code invoice management available Banana?
+__label__invoice QR code invoice management available banana Accounting +?
+__label__invoice manage invoices QR?
+__label__invoice manage invoices QR code?
+__label__invoice manage invoices?
+__label__invoice invoices QR code supported?
+__label__invoice new QR code invoice supported?
+__label__invoice QR code invoice supported?
+__label__invoice invoices support QR Code?
+__label__invoice new invoices QR code supported?
+__label__invoice program support invoices QR code?
+__label__invoice work Banana software new invoices QR?
+__label__invoice Banana Accounting + support invoices QR code?
+__label__invoice QR code invoices Banana?
+__label__invoice QR code invoice management available software?
+__label__invoice method manage QR code Banana?
 __label__invoice QR Code Invoice?
-__label__invoice Are QR code invoices manageable in the software?
-__label__invoice Are QR code invoices accepted in Banana?
-__label__invoice Are QR Code Invoice available?
-__label__invoice Are QR Code Invoice supported?
-__label__invoice Is it possible to work on QR Code Invoice?
-__label__creditcard Can I use VISA?
-__label__creditcard Can I use Amex?
-__label__creditcard Can I use American Express?
-__label__creditcard Can I use Bancomat?
-__label__creditcard Can I use Postepay?
-__label__creditcard Can I use Maestro?
-__label__creditcard Can I use prepaid card?
-__label__creditcard Can I use credit card?
-__label__creditcard Can I use bank card?
-__label__creditcard Can I use debit card?
-__label__creditcard Can I use MasterCard?
-__label__creditcard Do you accept VISA?
-__label__creditcard Do you accept Amex?
-__label__creditcard Do you accept American Express?
-__label__creditcard Do you accept Bancomat?
-__label__creditcard Do you accept Postepay?
-__label__creditcard Do you accept Maestro?
-__label__creditcard Do you accept prepaid card?
-__label__creditcard Do you accept credit card?
-__label__creditcard Do you accept bank card?
-__label__creditcard Do you accept debit card?
-__label__creditcard Do you accept MasterCard?
-__label__creditcard Can I purchase with my MasterCard?
-__label__creditcard Can I use PostFinance?
-__label__creditcard Can I use Amex to pay?
-__label__creditcard Can I pay with VISA?
-__label__creditcard Can I pay with Amex?
-__label__creditcard Can I pay with American Express?
-__label__creditcard Can I pay with Bancomat?
-__label__creditcard Can I pay with Postepay?
-__label__creditcard Can I pay with Maestro?
-__label__creditcard Can I pay with MasterCard?
-__label__creditcard Can I pay with my debit card?
-__label__creditcard Can I pay with my credit card?
-__label__creditcard Can I pay with my prepaid card?
-__label__creditcard Can I purchase with my MasterCard?
-__label__creditcard Can I pay with PostFinance?
-__label__creditcard Do you accept credit card payments?
-__label__creditcard Do you accept American Express credit card payments?
-__label__creditcard Can I pay Banana with my credit card?
-__label__creditcard Can I buy Banana with MasterCard?
-__label__creditcard Can I purchase with a credit card?
-__label__creditcard Can I purchase with a prepaid card?
-__label__creditcard Can I purchase with a debit card?
-__label__creditcard Can I purchase with a credit card outside Switzerland?
-__label__creditcard Can I purchase with a credit card in the Switzerland?
-__label__creditcard Can I use my credit card in Switzerland?
-__label__creditcard Can I purchase with a PostFinance outside the Swiss Federation?
-__label__creditcard Can I purchase with a PostFinance outside the Switzerland?
-__label__creditcard Do you accept payments from foreign countries?
-__label__creditcard Do you accept payments from abroad?
-__label__creditcard Do you accept payments from Italy?
-__label__creditcard Do you accept payments from Germany?
-__label__creditcard Do you accept payments from Portugal?
-__label__creditcard Do you accept payments from Greece?
-__label__creditcard Do you accept payments from Spain?
-__label__creditcard Do you accept payments from the USA?
-__label__creditcard Do you accept VISA payments?
-__label__creditcard Do you accept Amex payments?
-__label__creditcard Do you accept credit card payments?
-__label__creditcard Do you accept debit card payments?
-__label__creditcard Do you accept prepaid card payments?
-__label__creditcard Do you accept PostFinance card payments?
-__label__creditcard Do you accept card payments?
+__label__invoice QR code invoices manageable software?
+__label__invoice QR code invoices accepted Banana?
+__label__invoice QR Code Invoice available?
+__label__invoice QR Code Invoice supported?
+__label__invoice possible work QR Code Invoice?
+__label__creditcard VISA?
+__label__creditcard Amex?
+__label__creditcard American Express?
+__label__creditcard Bancomat?
+__label__creditcard Postepay?
+__label__creditcard Maestro?
+__label__creditcard prepaid card?
+__label__creditcard credit card?
+__label__creditcard bank card?
+__label__creditcard debit card?
+__label__creditcard MasterCard?
+__label__creditcard accept VISA?
+__label__creditcard accept Amex?
+__label__creditcard accept American Express?
+__label__creditcard accept Bancomat?
+__label__creditcard accept Postepay?
+__label__creditcard accept Maestro?
+__label__creditcard accept prepaid card?
+__label__creditcard accept credit card?
+__label__creditcard accept bank card?
+__label__creditcard accept debit card?
+__label__creditcard accept MasterCard?
+__label__creditcard purchase MasterCard?
+__label__creditcard PostFinance?
+__label__creditcard Amex pay?
+__label__creditcard pay VISA?
+__label__creditcard pay Amex?
+__label__creditcard pay American Express?
+__label__creditcard pay Bancomat?
+__label__creditcard pay Postepay?
+__label__creditcard pay Maestro?
+__label__creditcard pay MasterCard?
+__label__creditcard pay debit card?
+__label__creditcard pay credit card?
+__label__creditcard pay prepaid card?
+__label__creditcard purchase MasterCard?
+__label__creditcard pay PostFinance?
+__label__creditcard accept credit card payments?
+__label__creditcard accept American Express credit card payments?
+__label__creditcard pay Banana credit card?
+__label__creditcard buy Banana MasterCard?
+__label__creditcard purchase credit card?
+__label__creditcard purchase prepaid card?
+__label__creditcard purchase debit card?
+__label__creditcard purchase credit card outside Switzerland?
+__label__creditcard purchase credit card Switzerland?
+__label__creditcard credit card Switzerland?
+__label__creditcard purchase PostFinance outside Swiss Federation?
+__label__creditcard purchase PostFinance outside Switzerland?
+__label__creditcard accept payments foreign countries?
+__label__creditcard accept payments abroad?
+__label__creditcard accept payments Italy?
+__label__creditcard accept payments Germany?
+__label__creditcard accept payments Portugal?
+__label__creditcard accept payments Greece?
+__label__creditcard accept payments Spain?
+__label__creditcard accept payments USA?
+__label__creditcard accept VISA payments?
+__label__creditcard accept Amex payments?
+__label__creditcard accept credit card payments?
+__label__creditcard accept debit card payments?
+__label__creditcard accept prepaid card payments?
+__label__creditcard accept PostFinance card payments?
+__label__creditcard accept card payments?
 
 
