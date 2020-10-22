@@ -6,83 +6,94 @@ if __name__ == '__main__':
     nlp_labeler = NlpLabeler("nlp/data")
 
     tests = [
-        "Il vostro programmma e supportato su Windows?",
-        "E disponibile il programma per Mac?",
-        "Posso installarlo su Android?",
-        "Posso gestire le fatture con QR Code?",
-        "Fatture con QR Code?",
-        "Ci sono le fatture con QR Code?",
-        "Banana e disponibile per Linux?",
-        "Accettate pagamenti con VISA?",
-        "Can I install Banana on Windows?",
-        "Can the program run on Mac?",
-        "Can we use the software on Android?",
-        "Can I manage QR Code invoices?",
-        "Does Banana handle QR Code invoices?",
-        "Can I install banana on Ubuntu?",
-        "Are the new invoices with qr code available?",
-        "Can I pay with credit card?",
-        "Mi povas paroli Esperanton",
-        "E supportato Windows?",
-        "E disponibile il programma per Mac?",
-        "Posso installarlo su Android?",
-        "Posso gestire le fatture con QR Code?",
-        "Fatture con QR Code?",
-        "Ci sono le fatture con QR Code?",
-        "Banana e disponibile per Linux?",
-        "Accettate pagamenti con VISA?",
-        "Posso annullare il piano acquistato?",
-        "Vorrei cancellare il piano da me sottoscritto",
-        "Posso passare a un piano annuale?",
-        "Can I install Banana on Windows?",
-        "Can the program run on Mac?",
-        "Can we use the software on Android?",
-        "Can I manage QR Code invoices?",
-        "I want to stop the subscription to the plan.",
-        "Does Banana handle QR Code invoices?",
-        "Can I install banana on Ubuntu?",
-        "Are the new invoices with qr code available?",
-        "Can I pay with credit card?",
-        "Can I cancel my subscription to the paid plan?",
-        "I want to delete my subscription to the paid plan.",
-        "Can I switch to an annual subscription?",
-        "What if I want to switch to an annual subscription?",
-        "Pouis-je telecharger Banana sur Mac OS?",
-        "Pouis-je telecharger Banana sur mon Android telephone intelligent?",
-        "Pouis-je travailler avec QR Code factures?",
-        "Les factures supportent QR Codes?",
-        "Pouis-je installer Banana sur Ubuntu?",
-        "Pouis-je utiliser votre programme sur Windows?",
-        "Pouis-je acheter votre produits avec ma carte de credit?",
-        "Pouis-je acheter votre produits de un Etat etrangere?",
-        "Puedo instalar Banana en Mac OS?",
-        "Puedo instalar el software en un iPhone?",
-        "Puedo escargar el programa en un Android smarphone?",
-        "La factura con QR Code esta soportada?",
-        "Puedo instalar Banana Accounting en Linux Ubuntu?",
-        "Puedo usar mia Visa tarjeta de credito para comprar Banana?",
-        "Puedo trabajar con el nuevo modelo de factura con QR Code?",
-        "Puedo pagar desde Estados Unitos?",
-        "Ist es von Windows unterstuzt?",
-        "Gibt es das Software auch fur Mac?",
-        "Kann ich es auf Android installieren?",
-        "Kann ich meine Rechnungen mit dem QR code machen?",
-        "Rechnungen mit QR Code?",
-        "Gibt es Rechnungen mit QR Code?",
-        "Gibt es Banana auch fur Linux?",
-        "Akzeptiert ihr bezahlungen via VISA?"
+        "Il vostro programmma e supportato su Windows?", "it",
+        "E disponibile il programma per Mac?", "it",
+        "Posso installarlo su Android?", "it",
+        "Posso gestire le fatture con QR Code?", "it",
+        "Fatture con QR Code?", "it",
+        "Ci sono le fatture con QR Code?", "it",
+        "Banana e disponibile per Linux?", "it",
+        "Accettate pagamenti con VISA?", "it",
+        "Can I install Banana on Windows?", "en",
+        "Can the program run on Mac?", "en",
+        "Can we use the software on Android?", "en",
+        "Can I manage QR Code invoices?", "en",
+        "Does Banana handle QR Code invoices?", "en",
+        "Can I install banana on Ubuntu?", "en",
+        "Are the new invoices with qr code available?", "en",
+        "Can I pay with credit card?", "en",
+        "Mi povas paroli Esperanton", None,
+        "E supportato Windows?", "it",
+        "E disponibile il programma per Mac?", "it",
+        "Posso installarlo su Android?", "it",
+        "Posso gestire le fatture con QR Code?", "it",
+        "Fatture con QR Code?", "it",
+        "Ci sono le fatture con QR Code?", "it",
+        "Banana e disponibile per Linux?", "it",
+        "Accettate pagamenti con VISA?", "it",
+        "Posso annullare il piano acquistato?", "it",
+        "Vorrei cancellare il piano da me sottoscritto", "it",
+        "Posso passare a un piano annuale?", "it",
+        "Can I install Banana on Windows?", "en",
+        "Can the program run on Mac?", "en",
+        "Can we use the software on Android?", "en",
+        "Can I manage QR Code invoices?", "en",
+        "I want to stop the subscription to the plan.", "en",
+        "Does Banana handle QR Code invoices?", "en",
+        "Can I install banana on Ubuntu?", "en",
+        "Are the new invoices with qr code available?", "en",
+        "Can I pay with credit card?", "en",
+        "Can I cancel my subscription to the paid plan?", "en",
+        "I want to delete my subscription to the paid plan.", "en",
+        "Can I switch to an annual subscription?", "en",
+        "What if I want to switch to an annual subscription?", "en",
+        "Pouis-je telecharger Banana sur Mac OS?", "fr",
+        "Pouis-je telecharger Banana sur mon Android telephone intelligent?", "fr",
+        "Pouis-je travailler avec QR Code factures?", "fr",
+        "Les factures supportent QR Codes?", "fr",
+        "Pouis-je installer Banana sur Ubuntu?", "fr",
+        "Pouis-je utiliser votre programme sur Windows?", "fr",
+        "Pouis-je acheter votre produits avec ma carte de credit?", "fr",
+        "Pouis-je acheter votre produits de un Etat etrangere?", "fr",
+        "Puedo instalar Banana en Mac OS?", "es",
+        "Puedo instalar el software en un iPhone?", "es",
+        "Puedo escargar el programa en un Android smarphone?", "es",
+        "La factura con QR Code esta soportada?", "es",
+        "Puedo instalar Banana Accounting en Linux Ubuntu?", "es",
+        "Puedo usar mia Visa tarjeta de credito para comprar Banana?", "es",
+        "Puedo trabajar con el nuevo modelo de factura con QR Code?", "es",
+        "Puedo pagar desde Estados Unitos?", "es",
+        "Ist es von Windows unterstuzt?", "de",
+        "Gibt es das Software auch fur Mac?", "de",
+        "Kann ich es auf Android installieren?", "de",
+        "Kann ich meine Rechnungen mit dem QR code machen?", "de",
+        "Rechnungen mit QR Code?", "de",
+        "Gibt es Rechnungen mit QR Code?", "de",
+        "Gibt es Banana auch fur Linux?", "de",
+        "Akzeptiert ihr bezahlungen via VISA?", "de",
+        "Angenommen ich installiere Banana nicht auf meinen PC sondern über meinen PC auf einem separaten Speicher und gebe den Lizenzschlüssel ein, funktioniert dann Banana auch noch wenn ich den separaten Speicher an einem anderen PC einstecke", "de"
     ]
 
     print("-- Test --")
 
-    for s in tests:
+    i = 0
+    while i < len(tests):
+        s = tests[i]
+        i += 1
+        expected = tests[i]
+        i += 1
+
         lang = get_language(s)
-        print(s)
         if lang is None:
-            print("- error: failed to recognize language\n")
+            if expected is not None:
+                print("{}\n\terror: failed to recognize language".format(s))
+            continue
+
+        if lang != expected:
+            print("{}\n\terror: expected {}, detected {}".format(s, expected, lang))
             continue
         try:
             labels = nlp_labeler.label(s, lang)
-            print("- labels: {}\n".format(labels))
+            print("{}\n\tlabels: {}".format(s, labels))
         except UnsupportedLanguageError:
-            print("- error: unsupported language: {}".format(lang))
+            print("{}\n\terror: unsupported language: {}".format(s, lang))

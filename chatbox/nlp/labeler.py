@@ -23,17 +23,16 @@ class NlpLabeler(object):
         labels, confidence = self.__get_model(language).predict(text, 3)
         results = []
         for i in range(0, len(labels)):
-            print("  - ", labels[i], confidence[i])
             if confidence[i] > 0.5:
                 results.append(labels[i].replace("__label__", ""))
         return results
 
-    def __get_model(self, language):
+    def __get_model(self, language, force_train=False):
         try:
             model = self.__models[language]
         except KeyError:
             model_path = os.path.join(self.__work_dir, "models", "{}.ftz".format(language))
-            if os.path.exists(model_path) and False:
+            if os.path.exists(model_path) and not force_train:
                 # Load the model
                 model = ft.load_model(model_path)
             else:
@@ -46,7 +45,7 @@ class NlpLabeler(object):
                 # Train the model
                 model = ft.train_supervised(input=train_path,
                                             epoch=25)
-                model.save_model(model_path)
+                # model.save_model(model_path)  # TODO: investigate why this method is unreliable
 
             self.__models[language] = model
         return model

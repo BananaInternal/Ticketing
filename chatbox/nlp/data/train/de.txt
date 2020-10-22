@@ -182,3 +182,18 @@ __label__creditcard Akzeptieren Sie Debitkartenzahlungen?
 __label__creditcard Akzeptieren Sie Prepaid-Kartenzahlungen?
 __label__creditcard Akzeptieren Sie PostFinance-Kartenzahlungen?
 __label__creditcard Akzeptieren Sie Kartenzahlungen?
+__label__installation Meine Kundin hat das Banana auf ihrem Geschäftscomputer installiert
+__label__installation Ist es nun möglich dasselbe Programm mit den gleichen Lizenzschlüssel zuhause zu installieren
+__label__installation Damit sie die Geschäftsbuchhaltung auch am Abend führen kann?
+__label__installation Kann ich den gekauften Key von banana einfach dort nochmals verwenden und wie sollte ich den Wechsel vorbereiten?
+__label__installation Wie kann ich meine Version neu installieren, bezw. wie oft?
+__label__installation Müsste die alte Anmeldung auf dem Computer jetzt gelöscht werden, oder passiert dass sowieso, wenn sie ein Zeitchen nicht mehr benutzt wird?
+__label__installation Ich möchte gerne dass Banana Programm auf 2 Computern installieren und nutzen, sodass auf PC die Buchungssyteme sychnron arbeiten.
+__label__installation Kann ich mit diesem Schlüssel Banana auf einem zweiten Computer installieren?
+__label__installation Oder können auch 2 Personen auf 2 PCs die Buchhaltung führen
+__label__installation Kann ich das Programm auch auf zwei verschiedenen Rechnern installieren?
+__label__installation Kann die Software problemlos auf einem neuen Rechner installiert und aktiviert werden?
+__label__installation Oder muss ich ein spezielles Verfahren wählen, um Ihnen zu beweisen, dass ich die Lizenz nicht doppelt verwende?
+__label__installation Wie viel würde eine Lizenz für 2 Computer kosten?
+__label__installation kann ich 1 Lizenz kaufen aber an 2 Computer verwenden
+__label__installation Angenommen ich installiere Banana nicht auf meinen PC sondern über meinen PC auf einem separaten Speicher
