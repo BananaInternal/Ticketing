@@ -1,130 +1,107 @@
-__label__osreq Funktioniert es auf allen Betriebssystemen?
-__label__osreq Funktioniert es unter allen Betriebssystemen?
-__label__osreq Funktioniert Banane unter allen Betriebssystemen?
-__label__osreq Funktioniert Banana auf allen Betriebssystemen?
-__label__osreq Benötigt Banane ein bestimmtes Betriebssystem?
-__label__osreq Welches Betriebssystem wird für die Bananenbuchhaltung benötigt?
-__label__osreq Ist die Banana Accounting-Software für Android verfügbar?
-__label__osreq Ist die Banana Accounting-Software für Ubuntu verfügbar?
-__label__osreq Funktioniert die Software auf allen Betriebssystemen?
-__label__osreq Funktioniert Ihre Software auf allen Betriebssystemen?
-__label__osreq Ist Ihre Software für MacOS verfügbar?
-__label__osreq Ist die Banana Accounting-Software für MacOS verfügbar?
-__label__osreq Kann ich es auf meinem iPad installieren?
-__label__osreq Ist die Banana Accounting-Software für iOS verfügbar?
-__label__osreq Ist die Banana Accounting-Software für Windows verfügbar?
-__label__osreq Kann ich es auf meinem Tablet installieren?
-__label__osreq Ist die Banana Accounting-Software für Mac verfügbar?
-__label__osreq Läuft Banana auf allen Betriebssystemen?
-__label__osreq Läuft Banana auf einem Mac?
+__label__osreq Funktioniert  allen Betriebssystemen?
+__label__osreq Funktioniert  unter allen Betriebssystemen?
+__label__osreq Funktioniert banana unter allen Betriebssystemen?
+__label__osreq Funktioniert Banana  allen Betriebssystemen?
+__label__osreq Benötigt banana  bestimmtes Betriebssystem?
+__label__osreq Welches Betriebssystem wird   bananabuchhaltung benötigt?
+__label__osreq  Android verfügbar?
+__label__osreq  Ubuntu verfügbar?
+__label__osreq Funktioniert   Software  allen Betriebssystemen?
+__label__osreq Funktioniert Ihre Software  allen Betriebssystemen?
+__label__osreq Ihre Software MacOS verfügbar?
+__label__osreq  MacOS verfügbar?
+__label__osreq  iPad installieren?
+__label__osreq  iOS verfügbar?
+__label__osreq  Windows verfügbar?
+__label__osreq  Tablet installieren?
+__label__osreq  Mac verfügbar?
+__label__osreq Läuft Banana  allen Betriebssystemen?
+__label__osreq Läuft Banana  Mac?
 __label__osreq Läuft Banana unter Linux?
-__label__osreq Kann ich es auf meinem iPhone installieren?
-__label__osreq Kann ich Banana kostenlos auf mein iPhone herunterladen?
-__label__osreq Läuft die Software unter Linux?
-__label__osreq Läuft die Software unter Android?
-__label__osreq Läuft die Software unter Windows XP?
-__label__osreq Kann ich die Banana Accounting-Software auf Android installieren?
-__label__osreq Wie viele Systeme unterstützt die Banana Accounting-Software?
-__label__osreq Wie viele Systeme werden unterstützt?
+__label__osreq  iPhone installieren?
+__label__osreq  Banana kostenlos iPhone herunterladen?
+__label__osreq Läuft   Software unter Linux?
+__label__osreq Läuft   Software unter Android?
+__label__osreq Läuft   Software unter Windows XP?
+__label__osreq    Banana Accounting-Software  Android installieren?
+__label__osreq viele Systeme unterstützt   Banana Accounting-Software?
+__label__osreq viele Systeme werden unterstützt?
 __label__osreq Wird Android unterstützt?
 __label__osreq Wird MacOS unterstützt?
-__label__osreq Ist die Android-Version von Banana kostenlos?
+__label__osreq   Android-Version  Banana kostenlos?
 __label__osreq Wird Linux unterstützt?
 __label__osreq Wird Ubuntu unterstützt?
-__label__osreq Kann ich Banane auf Mobilgeräten installieren?
-__label__osreq Kann ich Bananen auf mein Smartphone herunterladen?
-__label__quit Kann ich den bezahlten Plan kündigen?
-__label__quit Kann ich den bezahlten Plan, den ich abonniert habe, kündigen?
-__label__quit Kann ich den von mir bezahlten Plan schließen?
-__label__quit Kann ich den von mir gewählten Plan nicht mehr bezahlen?
-__label__quit Kann ich kündigen, wenn ich einen der bezahlten Pläne abonniere, wenn ich möchte?
-__label__quit Ich möchte den von mir abonnierten Plan beenden.
-__label__quit Ich möchte den von mir gewählten bezahlten Plan beenden.
-__label__quit Ich möchte die Erneuerung des von mir gewählten bezahlten Plans beenden.
-__label__quit Ich möchte die Erneuerung des von mir abonnierten bezahlten Plans beenden.
-__label__quit Ich möchte das Abonnement für den kostenpflichtigen Plan kündigen.
-__label__quit Ich möchte mein Abonnement für den Plan löschen.
-__label__quit Ich möchte mein Abonnement für den Plan beenden.
-__label__quit Ich möchte mein Abonnement für den Plan kündigen / kündigen.
-__label__quit Kann ich das Abonnement für den bezahlten Plan kündigen?
-__label__quit Kann ich die Verlängerung des Abonnements für den kostenpflichtigen Tarif beenden?
-__label__quit Kann das Abonnement für den bezahlten Plan gekündigt werden?
-__label__quit Kann ich das Abonnement für den kostenpflichtigen Plan kündigen?
-__label__quit Wann kann ich das Abonnement für den kostenpflichtigen Tarif kündigen?
-__label__quit Wann kann ich das Abonnement für den kostenpflichtigen Tarif löschen?
-__label__quit Kann ich das Abonnement für den kostenpflichtigen Plan unterdrücken?
-__label__quit Kann ich das Abonnement für den bezahlten Plan abbrechen?
-__label__quit Wann kann ich das Abonnement für den kostenpflichtigen Tarif kündigen?
-__label__quit Kann ich mein Abonnement für den kostenpflichtigen Tarif kündigen?
-__label__switch Kann ich zum Jahresabonnement wechseln?
-__label__switch Warum zum Jahresabonnement wechseln?
-__label__switch Ich möchte zum Jahresabonnement wechseln.
-__label__switch Wie viel bezahle ich, wenn ich zum Jahresabonnement wechsle?
-__label__switch Ist das Jahresabonnement teuer?
-__label__switch Gibt es Profis für den Wechsel zum Jahresabonnement?
-__label__switch Ich überlege, auf das Jahresabonnement umzusteigen.
+__label__osreq  banana  Mobilgeräten installieren?
+__label__osreq  banana Smartphone herunterladen?
+__label__switch  Jahresabonnement wechseln?
+__label__switch Jahresabonnement wechseln?
+__label__switch  Jahresabonnement wechseln.
+__label__switch viel bezahle ich, wenn  Jahresabonnement wechsle?
+__label__switch  Jahresabonnement teuer?
+__label__switch   Profis Wechsel Jahresabonnement?
+__label__switch  überlege,   Jahresabonnement umzusteigen.
 __label__switch Jahresabonnement.
-__label__switch Zum Jahresabonnement wechseln?
-__label__switch Vorteile des Wechsels zum Jahresabonnement?
-__label__switch Was bekomme ich, wenn ich zum Jahresabonnement wechsle?
-__label__switch Wie kann ich zum Jahresabonnement wechseln?
-__label__switch Gibt es ein Jahresabonnement?
-__label__switch Kann ich zum Jahresabonnement wechseln, wenn ich bereits einen anderen Tarif gekauft habe?
-__label__switch Kann ich zum Jahresabonnement wechseln, wenn ich bereits einen bezahlten Plan habe?
-__label__switch Kann ich zum Jahresabonnement wechseln, wenn ich einen anderen Plan abonniert habe?
-__label__switch Ist es bequem, zum Jahresabonnement zu wechseln?
-__label__switch Wie kann ich weitere Informationen zum Jahresabonnement erhalten?
-__label__switch Kann ich einen Jahresplan abonnieren?
-__label__switch Ich möchte zum Jahresplanabonnement wechseln.
-__label__switch Ich habe mich gefragt, ob ich zum Jahresabonnement wechseln soll.
-__label__switch Sagen Sie mir, ob der Wechsel zum Jahresabonnement Vorteile bietet.
-__label__switch Darf ich wissen, ob der Wechsel zum Jahresabonnement Vorteile bringt?
-__label__switch Irgendwelche Vorschläge für den Wechsel zum Jahresabonnement?
-__label__switch Darf ich fragen, wie ich zum Jahresabonnement wechseln kann?
-__label__invoice Verwaltet Banana Accounting Rechnungen mit dem QR-Code?
-__label__invoice Verwaltet es Rechnungen mit dem QR-Code?
-__label__invoice Verwaltet die Software Rechnungen mit dem QR-Code?
-__label__invoice Kann ich Rechnungen mit dem QR-Code verwalten?
-__label__invoice Unterstützt die Software Rechnungen mit QR-Code?
-__label__invoice Kann ich mit Rechnungen mit QR-Codes arbeiten?
-__label__invoice Ist eine QR-Code-Rechnungsverwaltung möglich?
-__label__invoice Unterstützt Banana Accounting Rechnungen mit QR-Code?
-__label__invoice Unterstützt Banana Rechnungen mit QR-Code?
-__label__invoice Ist die Rechnungsverwaltung für QR-Codes verfügbar?
-__label__invoice Ist die QR-Code-Rechnungsverwaltung in der Software verfügbar?
-__label__invoice Ist die QR-Code-Rechnungsverwaltung in Banana verfügbar?
-__label__invoice Ist die QR-Code-Rechnungsverwaltung in Banana Accounting + verfügbar?
-__label__invoice Kann ich Rechnungen mit QR verwalten?
-__label__invoice Kann ich Rechnungen mit QR-Code verwalten?
-__label__invoice Wie kann ich Rechnungen verwalten?
-__label__invoice Werden Rechnungen mit QR-Code unterstützt?
-__label__invoice Wird die neue QR-Code-Rechnung unterstützt?
-__label__invoice Wird die QR-Code-Rechnung unterstützt?
-__label__invoice Unterstützen Rechnungen den QR-Code?
-__label__invoice Werden die neuen Rechnungen mit QR-Code unterstützt?
-__label__invoice Unterstützt das Programm Rechnungen mit QR-Code?
-__label__invoice Kann ich mit den neuen Rechnungen mit QR an Bananensoftware arbeiten?
-__label__invoice Unterstützt Banana Accounting + Rechnungen mit QR-Code?
-__label__invoice Kann ich QR-Code-Rechnungen für Bananen verwenden?
-__label__invoice Ist die QR-Code-Rechnungsverwaltung in der Software verfügbar?
-__label__invoice Gibt es eine Methode zum Verwalten von QR-Code in Banana?
+__label__switch Jahresabonnement wechseln?
+__label__switch Vorteile  Wechsels Jahresabonnement?
+__label__switch Was bekomme ich, wenn  Jahresabonnement wechsle?
+__label__switch  Jahresabonnement wechseln?
+__label__switch  Jahresabonnement?
+__label__switch  Jahresabonnement wechseln, wenn  bereits  anderen Tarif gekauft habe?
+__label__switch  Jahresabonnement wechseln, wenn  bereits  bezahlten Plan habe?
+__label__switch  Jahresabonnement wechseln, wenn  anderen Plan abonniert habe?
+__label__switch  bequem, Jahresabonnement zu wechseln?
+__label__switch  weitere Informationen Jahresabonnement erhalten?
+__label__switch  Jahresplan abonnieren?
+__label__switch  Jahresplanabonnement wechseln.
+__label__switch  habe mich gefragt, ob  Jahresabonnement wechseln soll.
+__label__switch Sagen Sie mir, ob  Wechsel Jahresabonnement Vorteile bietet.
+__label__switch Darf  wissen, ob  Wechsel Jahresabonnement Vorteile bringt?
+__label__switch Irgendwelche Vorschläge Wechsel Jahresabonnement?
+__label__switch Darf  fragen,  Jahresabonnement wechseln kann?
+__label__invoice Verwaltet Banana Accounting Rechnungen dem QR-Code?
+__label__invoice Verwaltet  Rechnungen dem QR-Code?
+__label__invoice Verwaltet   Software Rechnungen dem QR-Code?
+__label__invoice  Rechnungen dem QR-Code verwalten?
+__label__invoice Unterstützt   Software Rechnungen QR-Code?
+__label__invoice  Rechnungen QR-Codes arbeiten?
+__label__invoice  QR-Code-Rechnungsverwaltung möglich?
+__label__invoice Unterstützt Banana Accounting Rechnungen QR-Code?
+__label__invoice Unterstützt Banana Rechnungen QR-Code?
+__label__invoice   Rechnungsverwaltung QR-Codes verfügbar?
+__label__invoice   QR-Code-Rechnungsverwaltung in  Software verfügbar?
+__label__invoice   QR-Code-Rechnungsverwaltung in Banana verfügbar?
+__label__invoice   QR-Code-Rechnungsverwaltung in Banana Accounting + verfügbar?
+__label__invoice  Rechnungen QR verwalten?
+__label__invoice  Rechnungen QR-Code verwalten?
+__label__invoice  Rechnungen verwalten?
+__label__invoice Werden Rechnungen QR-Code unterstützt?
+__label__invoice Wird   neue QR-Code-Rechnung unterstützt?
+__label__invoice Wird   QR-Code-Rechnung unterstützt?
+__label__invoice Unterstützen Rechnungen QR-Code?
+__label__invoice Werden   neuen Rechnungen QR-Code unterstützt?
+__label__invoice Unterstützt  Programm Rechnungen QR-Code?
+__label__invoice  neuen Rechnungen QR an banana software arbeiten?
+__label__invoice Unterstützt Banana Accounting + Rechnungen QR-Code?
+__label__invoice  QR-Code-Rechnungen banana verwenden?
+__label__invoice   QR-Code-Rechnungsverwaltung in  Software verfügbar?
+__label__invoice  Methode Verwalten  QR-Code in Banana?
 __label__invoice QR Code Rechnung?
-__label__invoice Sind QR-Code-Rechnungen in der Software verwaltbar?
+__label__invoice Sind QR-Code-Rechnungen in  Software verwaltbar?
 __label__invoice Werden QR-Code-Rechnungen in Banana akzeptiert?
 __label__invoice Sind QR-Code-Rechnungen verfügbar?
-__label__invoice Wird die QR-Code-Rechnung unterstützt?
-__label__invoice Ist es möglich, an der QR-Code-Rechnung zu arbeiten?
-__label__creditcard Kann ich VISA verwenden?
-__label__creditcard Kann ich Amex verwenden?
-__label__creditcard Kann ich American Express verwenden?
-__label__creditcard Kann ich Bancomat verwenden?
-__label__creditcard Kann ich Postepay verwenden?
-__label__creditcard Kann ich Maestro verwenden?
-__label__creditcard Kann ich eine Prepaid-Karte verwenden?
-__label__creditcard Kann ich eine Kreditkarte verwenden?
-__label__creditcard Kann ich eine Bankkarte verwenden?
-__label__creditcard Kann ich eine Debitkarte verwenden?
-__label__creditcard Kann ich MasterCard verwenden?
+__label__invoice Wird   QR-Code-Rechnung unterstützt?
+__label__invoice  möglich, an  QR-Code-Rechnung zu arbeiten?
+__label__creditcard  VISA verwenden?
+__label__creditcard  Amex verwenden?
+__label__creditcard  American Express verwenden?
+__label__creditcard  Bancomat verwenden?
+__label__creditcard  Postepay verwenden?
+__label__creditcard  Maestro verwenden?
+__label__creditcard  Prepaid-Karte verwenden?
+__label__creditcard  Kreditkarte verwenden?
+__label__creditcard  Bankkarte verwenden?
+__label__creditcard  Debitkarte verwenden?
+__label__creditcard  MasterCard verwenden?
 __label__creditcard Akzeptieren Sie VISA?
 __label__creditcard Akzeptieren Sie Amex?
 __label__creditcard Akzeptieren Sie American Express?
@@ -133,40 +110,40 @@ __label__creditcard Akzeptieren Sie Postepay?
 __label__creditcard Akzeptieren Sie Maestro?
 __label__creditcard Akzeptieren Sie Prepaid-Karten?
 __label__creditcard Akzeptieren Sie Kreditkarten?
-__label__creditcard Akzeptieren Sie eine Bankkarte?
+__label__creditcard Akzeptieren Sie  Bankkarte?
 __label__creditcard Akzeptieren Sie Debitkarten?
 __label__creditcard Akzeptieren Sie MasterCard?
-__label__creditcard Kann ich mit meiner MasterCard kaufen?
-__label__creditcard Kann ich PostFinance verwenden?
-__label__creditcard Kann ich mit Amex bezahlen?
-__label__creditcard Kann ich mit VISA bezahlen?
-__label__creditcard Kann ich mit Amex bezahlen?
-__label__creditcard Kann ich mit American Express bezahlen?
-__label__creditcard Kann ich mit Bancomat bezahlen?
-__label__creditcard Kann ich mit Postepay bezahlen?
-__label__creditcard Kann ich mit Maestro bezahlen?
-__label__creditcard Kann ich mit MasterCard bezahlen?
-__label__creditcard Kann ich mit meiner Debitkarte bezahlen?
-__label__creditcard Kann ich mit meiner Kreditkarte bezahlen?
+__label__creditcard  MasterCard kaufen?
+__label__creditcard  PostFinance verwenden?
+__label__creditcard  Amex bezahlen?
+__label__creditcard  VISA bezahlen?
+__label__creditcard  Amex bezahlen?
+__label__creditcard  American Express bezahlen?
+__label__creditcard  Bancomat bezahlen?
+__label__creditcard  Postepay bezahlen?
+__label__creditcard  Maestro bezahlen?
+__label__creditcard  MasterCard bezahlen?
+__label__creditcard  Debitkarte bezahlen?
+__label__creditcard  Kreditkarte bezahlen?
 __label__creditcard Akzeptiert ihr bezahlungen via VISA?
 __label__creditcard Akzeptiert ihr bezahlungen via Maestro?
 __label__creditcard Akzeptiert ihr bezahlungen via MasterCard?
 __label__creditcard Akzeptiert ihr bezahlungen via PosteFinance?
-__label__creditcard Kann ich mit meiner Prepaid-Karte bezahlen?
-__label__creditcard Kann ich mit meiner MasterCard kaufen?
-__label__creditcard Kann ich mit PostFinance bezahlen?
+__label__creditcard  Prepaid-Karte bezahlen?
+__label__creditcard  MasterCard kaufen?
+__label__creditcard  PostFinance bezahlen?
 __label__creditcard Akzeptieren Sie Kreditkartenzahlungen?
-__label__creditcard Akzeptieren Sie Kreditkartenzahlungen von American Express?
-__label__creditcard Kann ich Banana mit meiner Kreditkarte bezahlen?
-__label__creditcard Kann ich Banane mit MasterCard kaufen?
-__label__creditcard Kann ich mit einer Kreditkarte kaufen?
-__label__creditcard Kann ich mit einer Prepaid-Karte kaufen?
-__label__creditcard Kann ich mit einer Debitkarte kaufen?
-__label__creditcard Kann ich mit einer Kreditkarte außerhalb der Schweiz einkaufen?
-__label__creditcard Kann ich in der Schweiz mit einer Kreditkarte einkaufen?
-__label__creditcard Kann ich meine Kreditkarte in der Schweiz verwenden?
-__label__creditcard Kann ich mit einer PostFinance außerhalb der Schweizerischen Föderation einkaufen?
-__label__creditcard Kann ich mit einer PostFinance außerhalb der Schweiz einkaufen?
+__label__creditcard Akzeptieren Sie Kreditkartenzahlungen  American Express?
+__label__creditcard  Banana Kreditkarte bezahlen?
+__label__creditcard  banana MasterCard kaufen?
+__label__creditcard  Kreditkarte kaufen?
+__label__creditcard  Prepaid-Karte kaufen?
+__label__creditcard  Debitkarte kaufen?
+__label__creditcard  Kreditkarte außerhalb  Schweiz einkaufen?
+__label__creditcard  in  Schweiz Kreditkarte einkaufen?
+__label__creditcard  Kreditkarte in  Schweiz verwenden?
+__label__creditcard  PostFinance außerhalb  Schweizerischen Föderation einkaufen?
+__label__creditcard  PostFinance außerhalb  Schweiz einkaufen?
 __label__creditcard Akzeptieren Sie Zahlungen aus dem Ausland?
 __label__creditcard Akzeptieren Sie Zahlungen aus dem Ausland?
 __label__creditcard Akzeptieren Sie Zahlungen aus Italien?
@@ -174,7 +151,7 @@ __label__creditcard Akzeptieren Sie Zahlungen aus Deutschland?
 __label__creditcard Akzeptieren Sie Zahlungen aus Portugal?
 __label__creditcard Akzeptieren Sie Zahlungen aus Griechenland?
 __label__creditcard Akzeptieren Sie Zahlungen aus Spanien?
-__label__creditcard Akzeptieren Sie Zahlungen aus den USA?
+__label__creditcard Akzeptieren Sie Zahlungen aus USA?
 __label__creditcard Akzeptieren Sie VISA-Zahlungen?
 __label__creditcard Akzeptieren Sie Amex-Zahlungen?
 __label__creditcard Akzeptieren Sie Kreditkartenzahlungen?
@@ -182,48 +159,76 @@ __label__creditcard Akzeptieren Sie Debitkartenzahlungen?
 __label__creditcard Akzeptieren Sie Prepaid-Kartenzahlungen?
 __label__creditcard Akzeptieren Sie PostFinance-Kartenzahlungen?
 __label__creditcard Akzeptieren Sie Kartenzahlungen?
-__label__installation Meine Kundin hat das Banana auf ihrem Geschäftscomputer installiert
-__label__installation Ist es nun möglich dasselbe Programm mit den gleichen Lizenzschlüssel zuhause zu installieren
-__label__installation Damit sie die Geschäftsbuchhaltung auch am Abend führen kann?
-__label__installation Kann ich den gekauften Key von banana einfach dort nochmals verwenden und wie sollte ich den Wechsel vorbereiten?
-__label__installation Wie kann ich meine Version neu installieren, bezw. wie oft?
-__label__installation Müsste die alte Anmeldung auf dem Computer jetzt gelöscht werden, oder passiert dass sowieso, wenn sie ein Zeitchen nicht mehr benutzt wird?
-__label__installation Ich möchte gerne dass Banana Programm auf 2 Computern installieren und nutzen, sodass auf PC die Buchungssyteme sychnron arbeiten.
-__label__installation Kann ich mit diesem Schlüssel Banana auf einem zweiten Computer installieren?
-__label__installation Oder können auch 2 Personen auf 2 PCs die Buchhaltung führen
-__label__installation Kann ich das Programm auch auf zwei verschiedenen Rechnern installieren?
-__label__installation Kann die Software problemlos auf einem neuen Rechner installiert und aktiviert werden?
-__label__installation Oder muss ich ein spezielles Verfahren wählen, um Ihnen zu beweisen, dass ich die Lizenz nicht doppelt verwende?
-__label__installation Wie viel würde eine Lizenz für 2 Computer kosten?
-__label__installation kann ich 1 Lizenz kaufen aber an 2 Computer verwenden
-__label__installation Angenommen ich installiere Banana nicht auf meinen PC sondern über meinen PC auf einem separaten Speicher
-__label__lizenzschlussel-verloren Ich suche meinen Lizenzschlüssel. Unter "arthur.grossen@bluewin.ch" kommt die Meldung keinen Schlüssel gefunden. Ist es möglich, dass meine "Banana9" Buchhaltung für Fr. 129.00 noch gar nicht bezahlt ist, obwohl ich schon seit April damit arbeite? 
-__label__lizenzschlussel-verloren Lizenzschlüssel Verloren 
-__label__lizenzschlussel-verloren Lizenzschlussel verloren
-__label__lizenzschlussel-verloren Ich schon seit April damit arbeite? 
-__label__lizenzschlussel-verloren Wir haben vor Jahren eine Banana Lizenz für die Version 8 gekauft, für die inzwischen aufgelöste Firma "Mountainbike Parts Langer & Co" in die "velotec.ch GmbH". Seither haben wir die Lizenz für die Nachfolger-Firma "velotec.ch GmbH" genutzt. Nun haben wir die IT Geräte und Mailserver geändert und leider kann ich die damalige Mail mit dem Lizenzschlüssel nicht mehr finden, um den Lizenzschlüssel für die Neuinstallation von Banana einzutragen. Wären Sie so freundlich und könnten Sie mir die Mail mit dem Lizenschlüssel nochmals senden? Die damalige Mail war vermutlich entweder info@mountainbike-parts.ch oder info@velotec.ch (falls bereits mit der Nachfolger-Firma bestellt). Gerne können Sie den Lizenz an die gleiche damalige Mail nochmals senden. 
-__label__lizenzschlussel-verloren in ihrer support-info steht, dass man telefonischen support erhält, wenn man registriert ist. dürfte ich die telefonnummer wissen?
-__label__lizenzschlussel-verloren mein problem: ich habe letztes jahr ein upgrade von banana 8 auf banana 9 gemacht. nun möchte ich banana 9 auf meinem neuen computer installiere, finde jedoch nur den lizenz-schlüssel für banana-8. können sie mir den lizenz-schlüssel fürs banana 9 nennen?
-__label__lizenzschlussel-verloren in ihrer support-info steht, dass man telefonischen support erhält, wenn man registriert ist. dürfte ich die telefonnummer wissen? mein problem: ich habe letztes jahr ein upgrade von banana 8 auf banana 9 gemacht. nun möchte ich banana 9 auf meinem neuen computer installiere, finde jedoch nur den lizenz-schlüssel für banana-8. können sie mir den lizenz-schlüssel fürs banana 9 nennen?
-__label__lizenzschlussel-verloren ich habe ca. vor zwei Jahren die Vollversion über Google gekauft. Da ich ein neues Gerät gekauft habe, ist bei mir die Vollversion nicht mehr drauf. Ich bräuchte die alte Lizenznummer damit ich die Vollversion wieder brauchen kann.
-__label__lizenzschlussel-verloren Gerne möchten wir unser Banana-Programm auf die neuste Version updaten. Da ich erst ein Jahr damit arbeite, weiss ich nicht, wo ich den Lizenz-Schlüssel finden kann. Im Anhang sende ich Ihnen ein Dokument, welches Angaben zur Registration beinhaltet. Die dort angegebene Mailadresse existiert aber schon lange nicht mehr. Auch die Postadresse stimmt nicht mehr. Das Programm wird auch weiterhin für die Pannendienstorganisation verwendet. Können Sie mir sagen, wo ich den Lizenzschlüssel finden kann oder wie ich das Programm anders auf die neuste Version updaten kann? Ich bin jeweils dienstags und donnerstags im Büro. 
-__label__lizenzschlussel-verloren Können Sie mir sagen, wo ich den Lizenzschlüssel finden kann oder wie ich das Programm anders auf die neuste Version updaten kann?
-__label__lizenzschlussel-verloren Ich finde den Lizenzschlüssel nicht mehr und weiss leider auch nicht mehr auf welche Mailadresse ich diese bestellt habe 
-Ich habe einen Lizenz für Jubla Thurgau, Adrian Schürch. dieser Code habe ich. Jedoch habe ich letzten Herbst eine Neue Lizenz erworben für meine Mutter, und diesen Schlüssel finde ich nicht mehr.
-__label__lizenzschlussel-verloren Ich musst mir einen neuen Computer zulegen. Ich kann aber auf meinem alten Laptop den Lizenzschlüssel nicht komplett lesen. Wie muss ich vorgehen, dass ich den Lizenzschlüssel auf dem neuen Laptop eingeben kann? 
-__label__lizenzschlussel-verloren Können wir das Programm auf dem neuen Laptop herunterladen und die gleiche Lizenz wieder eingeben? 
-__label__lizenzschlussel-verloren Falls ja, können Sie mir die entsprechende Anleitung zustellen? 
-__label__lizenzschlussel-verloren Können wir das Programm auf dem neuen Laptop herunterladen und die gleiche Lizenz wieder eingeben? Falls ja, können Sie mir die entsprechende Anleitung zustellen? (bzw. den Lizenzschlüssel erneut senden) Auf dem alten Laptop wird das Programm danach nicht mehr verwendet. __label__lizenzschlussel-verloren  
-__label__lizenzschlussel-verloren Ich habe mir einen neuen Computr gekauft und möchte nun die Banana Software darauf installieren. Leider kann ich meinen Lizenz-Schlüssel nicht mehr finden.  
-__label__lizenzschlussel-verloren ich haben meinen Computer gewechselt und sollte meinen Liznezschlüssel nochmals bekommen. Meine Registrierungscode lautet:
-__label__lizenzschlussel-verloren Registrierungscode lautet. 
-__label__lizenzschlussel-verloren Registrierungscode.
-__label__lizenzschlussel-verloren Wegen Firmeninternen Umstrukturierungen wäre ich darauf angewiesen die bananabuchhaltung auf einen weiteren Computer zu installieren. Bis anhin ist die Buchhaltung nur auf einem Computer installiert worden. Meine Mitarbeiterin hat jedoch das Mail mit dem Lizensschlüssel gelöst! Können Sie mir meinen Lizenzschlüssel nochmals zusenden?  
-__label__lizenzschlussel-verloren Gerne möchten wir das Program auf einem neuen PC instalieren und auf dem alten löschen. Hierfür benötigen wir jedoch nochmals den Lizenzschlüssel. Darf ich sie bitten, diesen nochmals bekannt zu geben. Diesen Lizenzschlüssel wird vermutlich
-__label__lizenzschlussel-verloren um mein Banana updaten zu können brauche ich meinen Lizenzschlüssel, den ich leider nicht mehr finde. 
-__label__lizenzschlussel-verloren diesen Lizenzschlüssel wird vermutlich 
-__label__lizenzschlussel-verloren Ich kann leider meinen Lizenzschlüssel nicht mehr finden.   
-__label__lizenzschlussel-verloren Können Sie mir bitte eine Kopie senden?  
-__label__lizenzschlussel-verloren Ich kann leider meinen Lizenzschlüssel nicht mehr finden. Können Sie mir bitte eine Kopie senden?     
-__label__lizenzschlussel-verloren Liznezschlüssel 
-__label__lizenzschlussel-verloren Liznezschlussel 
+__label__keylost  suche Lizenzschl. Unter "arthur.grossen@bluewin.ch" kommt   Meldung k  Schlüssel gefunden.  möglich, dass "Banana9" Buchhaltung Fr. 129.00 noch gar nicht bezahlt ist, obwohl  schon seit April damit arbeite?
+__label__keylost Lizenzschl Verloren 
+__label__keylost Lizenzschl verloren
+__label__keylost lizenz-schlüssel verloren
+__label__keylost Lizenzschl verloren
+__label__keylost Lizenzschl nochmals senden
+__label__keylost Lizenzschl wieder senden
+__label__keylost Lizenzschl nochmal senden
+__label__keylost verloren lizenz-schlüssel nennen
+__label__keylost banana9 banana8 lizenz-schlüssel nennen?
+__label__keylost banana 9 banana 8 lizenz-schlüssel 9 nennen?
+__label__keylost banana programm 9 version banana 8 lizenz-schlüssel 9 nennen?
+__label__keylost neues Gerät gekauft alte Lizenznummer
+__label__keylost alte Lizenznummer
+__label__keylost Banana-Programm neuste Lizenz-Schlüssel finden Lizenzschl finden
+__label__keylost Banana-Programm neuste Lizenz-Schlüssel finden
+__label__keylost Banana-Programm neuste Lizenzschl finden
+__label__keylost Banana Lizenzschl finden
+__label__keylost Lizenzschl finden
+__label__keylost finde Lizenzschl nicht mehr
+__label__keylost finde Lizenz nicht mehr
+__label__keylost Lizenzschl nicht komplett lesen
+__label__keylost gleiche Lizenz wieder eingeben
+__label__keylost Computer gewechselt Liznezschlüssel Registrierungscode
+__label__keylost Registrierungscode lautet. 
+__label__keylost Registrierungscode.
+__label__keylost bananabuchhaltung Lizensschlüssel gelöst nochmals Lizenzschl zusenden
+__label__keylost benötigen nochmals Lizenzschl bekannt zu geben
+__label__keylost Lizenzschl bekannt zu geben
+__label__keylost Lizenzschl zusenden
+__label__keylost nicht mehr finde
+__label__keylost Lizenzschl nicht mehr finden.
+__label__keylost Lizenzschl nicht finden
+__label__secinstall Banana Geschäftscomputer installiert möglich dasselbe Programm gleichen Lizenzschlüssel zuhause
+__label__secinstall neuen Laptop gekauften Key banana nochmals verwenden
+__label__secinstall Laptop neues gekauft Version neu installieren wie oft PC Laptop alten
+__label__secinstall neu Aufsetzten alte Anmeldung gelöscht werden
+__label__secinstall neuen System gleichen Lizenzschlüssel
+__label__secinstall neu System gleich Lizenz
+__label__secinstall 2 Computern installieren nutzen
+__label__secinstall zweiten Computer installieren
+__label__secinstall Schlüssel zweiten Computer installieren
+__label__secinstall Lizenz zweiten Computer installieren
+__label__secinstall zwei verschiedenen Rechnern installieren
+__label__secinstall zwei versch Rechner install
+__label__secinstall 2 versch Rechner install
+__label__secinstall Rechner neu installieren
+__label__secinstall mehr Mal installiert
+__label__secinstall mehrere Male installiert
+__label__secinstall 2 Mal installiert
+__label__secinstall zwei Mal installiert
+__label__secinstall Software problemlos neuen Rechner installiert aktiviert werden
+__label__secinstall neu installieren Lizenz gültig
+__label__secinstall lizenz wieder verwenden
+__label__secinstall schlussel wieder verwenden
+__label__secinstall weiteren Computer installieren
+__label__secinstall zweiten Computer ausstatten
+__label__secinstall computer beiden Orten installieren
+__label__secinstall computer laptop installieren
+__label__secinstall beide computer zugreifen
+__label__secinstall Lizenz auf mehreren PCs installieren
+__label__secinstall wievielen installiert werden
+__label__secinstall 2 Geräten benutzen
+__label__secinstall computer gleichzeitig LapTop
+__label__secinstall neu pc lizenz uebertragen
+__label__secinstall computer Buchhaltungsdaten uebertragen
+__label__secinstall neu laptop lizenz uebertragen
+__label__secinstall pc lizenz uebertragen
+__label__secinstall Laptop zunaechst installieren wuerde durch PC ersetzen werde
+
+
+
+

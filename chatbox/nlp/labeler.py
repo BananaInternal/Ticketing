@@ -23,7 +23,8 @@ class NlpLabeler(object):
         labels, confidence = self.__get_model(language).predict(text, 3)
         results = []
         for i in range(0, len(labels)):
-            if confidence[i] > 0.5:
+            print(labels[i], confidence[i])
+            if confidence[i] > 0.45:
                 results.append(labels[i].replace("__label__", ""))
         return results
 
@@ -44,7 +45,7 @@ class NlpLabeler(object):
                     )
                 # Train the model
                 model = ft.train_supervised(input=train_path,
-                                            epoch=30)
+                                            epoch=35)
                 # model.save_model(model_path)  # TODO: investigate why this method is unreliable
 
             self.__models[language] = model

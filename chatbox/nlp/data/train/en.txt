@@ -184,5 +184,48 @@ __label__creditcard accept debit card payments?
 __label__creditcard accept prepaid card payments?
 __label__creditcard accept PostFinance card payments?
 __label__creditcard accept card payments?
+__label__keylost License key lost
+__label__keylost I can no longer find the email with the license key to enter the license key for the new installation of Banana.
+__label__keylost resend license key
+__label__keylost find license key
+__label__keylost new license key banana
+__label__keylost lost license
+__label__keylost lost old license
+__label__keylost forgot old license
+__label__keylost forgot old license key
+__label__keylost old license
+__label__keylost register license
+__label__keylost last license key
+__label__keylost last license
+__label__keylost forgot license key
+__label__keylost update license
+__label__keylost update license key
+__label__keylost license key banana
+__label__keylost enter same license
+__label__keylost enter same license key
+__label__keylost same license
+__label__keylost same license key
+__label__keylost no longer find license
+__label__keylost no longer find license key
+__label__keylost no longer license
+__label__keylost no longer license key
+__label__keylost no find license
+__label__keylost no find license key
+__label__keylost lost email license key
+__label__keylost send email license key
+__label__keylost receive email license key
+__label__keylost lost email license 
+__label__keylost send email license 
+__label__keylost receive email license 
+__label__keylost lost license again
+__label__keylost lost old license again
+__label__keylost lost email license key again
+__label__keylost send email license key again
+__label__keylost receive email license key again
+__label__keylost lost email license again
+__label__keylost send email license again
+__label__keylost receive email license again
+__label__keylost key not found
+__label__keylost license not found
 
 
