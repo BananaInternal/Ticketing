@@ -76,10 +76,10 @@ if __name__ == '__main__':
         "Good morning, I would like to install Banana software on my iPad. Does this program run on iOS? Thank you, God bless you", "en",
         "To whom it may concern. Good morning/afternoon/evening sir/madam, it depends on when you red that emmail. Me like to know if or whether or weter ai chen work with invoices that supports qr code. tykbye", "en",
         "Due to internal company restructuring, I would have to rely on installing banana accounting on another computer. So far the accounting has only been installed on one computer. However, my employee solved the mail with the license key! Can you send me my license key again?", "en",
-        "306/5000 Dear Sir or Madam, I am looking for my license key. At arthur.grossen@bluewin.ch comes the message no key found. Is it possible that my Banana9 accounting for Fr. 129.00 has not yet been paid, although I have been working with it since April? Best regards Arthur Grossen", "en",
-        "Hello Years ago we bought a Banana license for version 8 for the now dissolved company Mountainbike Parts Langer & Co in velotec.ch GmbH. Since then we have used the license for the successor company velotec.ch GmbH. Now we have changed the IT equipment and mail server and unfortunately I can no longer find the email with the license key to enter the license key for the new installation of Banana. Would you be so kind as to resend me the email with the license key? The email at that time was probably either info@mountainbike-parts.ch or info@velotec.ch (if already ordered with the successor company). You are welcome to send the license again to the same email at the time. Thanks for your efforts. Kind regards Andreas Langer", "en",
+        "Dear Sir or Madam, I am looking for my license key. At comes the message no key found. Is it possible that my Banana9 accounting for Fr.   has not yet been paid, although I have been working with it since April? Best regards", "en",
+        "Hello Years ago we bought a Banana license for version 8 for the now dissolved company  in . Since then we have used the license for the successor company . Now we have changed the IT equipment and mail server and unfortunately I can no longer find the email with the license key to enter the license key for the new installation of Banana. Would you be so kind as to resend me the email with the license key? The email at that time was probably either  or  (if already ordered with the successor company). You are welcome to send the license again to the same email at the time. Thanks for your efforts. Kind regards", "en",
         "good day your support info says that you get telephone support if you are registered. should i know the phone number? my problem: i upgraded from banana 8 to banana 9 last year. now i want to install banana 9 on my new computer, but i can only find the license key for banana-8. can you tell me the license key for banana 9? many thanks and best regards manuela ryter", "en",
-        "Sehr geehrte Damen und Herren Gerne möchten wir unser Banana-Programm auf die neuste Version updaten. Da ich erst ein Jahr damit arbeite, weiss ich nicht, wo ich den Lizenz-Schlüssel finden kann.   Im Anhang sende ich Ihnen ein Dokument, welches Angaben zur Registration beinhaltet. Die dort angegebene Mailadresse existiert aber schon lange nicht mehr. Auch die Postadresse stimmt nicht mehr. Neu lautet sie:  Elite Autocenter AG Kirchweg 5 3812 Wilderswil", "de",
+        "Sehr geehrte Damen und Herren Gerne möchten wir unser Banana-Programm auf die neuste Version updaten. Da ich erst ein Jahr damit arbeite, weiss ich nicht, wo ich den Lizenz-Schlüssel finden kann.   Im Anhang sende ich Ihnen ein Dokument, welches Angaben zur Registration beinhaltet. Die dort angegebene Mailadresse existiert aber schon lange nicht mehr. Auch die Postadresse stimmt nicht mehr. Neu lautet sie:  ", "de",
         "Hallo, ich plane Banana fuer meine Buchhaltung einzusetzen (1Benutzer, 1 Lizenz) ich weiss aber bereits, dass ich in wenigen Monaten  meinen Laptop (wo ich die Software zunaechst installieren wuerde) durch eine PC ersetzen werde. Wie kann ich meinen Lizenzschluessel auf meinen neuen PC uebertragen? Wie kann ich meine Buchhaltungsdaten auf meinen neuen PC uebertragen? Mit freundlichem Gruss Benedikt Brenke", "de",
         "Guten Tag, ich wollte fragen, ob es möglich ist, banana auf einem weiteren Computer zu installieren, ohne eine weitere Lizenz kaufen zu müssen? Meine Mutter arbeitet teilweise an meiner Buchhaltung und vom Handling her wäre es einfacher, wenn sie dabei nicht auf meinen Comuputer angewiesen wäre.", "de"
 
@@ -97,14 +97,14 @@ if __name__ == '__main__':
         lang = get_language(s)
         if lang is None:
             if expected is not None:
-                print("{}\n\terror: failed to recognize language".format(s))
+                print(f"{s}\n\terror: failed to recognize language")
             continue
 
         if lang != expected:
-            print("{}\n\terror: expected {}, detected {}".format(s, expected, lang))
+            print(f"{s}\n\terror: expected {expected}, detected {lang}")
             continue
         try:
             labels = nlp_labeler.label(s, lang)
-            print("{}\n\tlabels: {}".format(s, labels))
+            print(f"{s}\n\tlabels: {labels}")
         except UnsupportedLanguageError:
-            print("{}\n\terror: unsupported language: {}".format(s, lang))
+            print(f"{s}\n\terror: unsupported language: {lang}")

@@ -1,107 +1,107 @@
-__label__osreq Funktioniert  allen Betriebssystemen?
-__label__osreq Funktioniert  unter allen Betriebssystemen?
+__label__osreq Funktioniert allen Betriebssystemen?
+__label__osreq Funktioniert unter allen Betriebssystemen?
 __label__osreq Funktioniert banana unter allen Betriebssystemen?
-__label__osreq Funktioniert Banana  allen Betriebssystemen?
-__label__osreq Benötigt banana  bestimmtes Betriebssystem?
-__label__osreq Welches Betriebssystem wird   bananabuchhaltung benötigt?
-__label__osreq  Android verfügbar?
-__label__osreq  Ubuntu verfügbar?
-__label__osreq Funktioniert   Software  allen Betriebssystemen?
-__label__osreq Funktioniert Ihre Software  allen Betriebssystemen?
+__label__osreq Funktioniert Banana allen Betriebssystemen?
+__label__osreq Benötigt banana bestimmtes Betriebssystem?
+__label__osreq Welches Betriebssystem wird bananabuchhaltung benötigt?
+__label__osreq Android verfügbar?
+__label__osreq Ubuntu verfügbar?
+__label__osreq Funktioniert Software allen Betriebssystemen?
+__label__osreq Funktioniert Ihre Software allen Betriebssystemen?
 __label__osreq Ihre Software MacOS verfügbar?
-__label__osreq  MacOS verfügbar?
-__label__osreq  iPad installieren?
-__label__osreq  iOS verfügbar?
-__label__osreq  Windows verfügbar?
-__label__osreq  Tablet installieren?
-__label__osreq  Mac verfügbar?
-__label__osreq Läuft Banana  allen Betriebssystemen?
-__label__osreq Läuft Banana  Mac?
+__label__osreq MacOS verfügbar?
+__label__osreq iPad installieren?
+__label__osreq iOS verfügbar?
+__label__osreq Windows verfügbar?
+__label__osreq Tablet installieren?
+__label__osreq Mac verfügbar?
+__label__osreq Läuft Banana allen Betriebssystemen?
+__label__osreq Läuft Banana Mac?
 __label__osreq Läuft Banana unter Linux?
-__label__osreq  iPhone installieren?
-__label__osreq  Banana kostenlos iPhone herunterladen?
-__label__osreq Läuft   Software unter Linux?
-__label__osreq Läuft   Software unter Android?
-__label__osreq Läuft   Software unter Windows XP?
-__label__osreq    Banana Accounting-Software  Android installieren?
-__label__osreq viele Systeme unterstützt   Banana Accounting-Software?
+__label__osreq iPhone installieren?
+__label__osreq Banana kostenlos iPhone herunterladen?
+__label__osreq Läuft Software unter Linux?
+__label__osreq Läuft Software unter Android?
+__label__osreq Läuft Software unter Windows XP?
+__label__osreq Banana Accounting-Software Android installieren?
+__label__osreq viele Systeme unterstützt Banana Accounting-Software?
 __label__osreq viele Systeme werden unterstützt?
 __label__osreq Wird Android unterstützt?
 __label__osreq Wird MacOS unterstützt?
-__label__osreq   Android-Version  Banana kostenlos?
+__label__osreq Android-Version Banana kostenlos?
 __label__osreq Wird Linux unterstützt?
 __label__osreq Wird Ubuntu unterstützt?
-__label__osreq  banana  Mobilgeräten installieren?
-__label__osreq  banana Smartphone herunterladen?
-__label__switch  Jahresabonnement wechseln?
+__label__osreq banana Mobilgeräten installieren?
+__label__osreq banana Smartphone herunterladen?
 __label__switch Jahresabonnement wechseln?
-__label__switch  Jahresabonnement wechseln.
-__label__switch viel bezahle ich, wenn  Jahresabonnement wechsle?
-__label__switch  Jahresabonnement teuer?
-__label__switch   Profis Wechsel Jahresabonnement?
-__label__switch  überlege,   Jahresabonnement umzusteigen.
+__label__switch Jahresabonnement wechseln?
+__label__switch Jahresabonnement wechseln.
+__label__switch viel bezahle ich, wenn Jahresabonnement wechsle?
+__label__switch Jahresabonnement teuer?
+__label__switch Profis Wechsel Jahresabonnement?
+__label__switch überlege, Jahresabonnement umzusteigen.
 __label__switch Jahresabonnement.
 __label__switch Jahresabonnement wechseln?
-__label__switch Vorteile  Wechsels Jahresabonnement?
-__label__switch Was bekomme ich, wenn  Jahresabonnement wechsle?
-__label__switch  Jahresabonnement wechseln?
-__label__switch  Jahresabonnement?
-__label__switch  Jahresabonnement wechseln, wenn  bereits  anderen Tarif gekauft habe?
-__label__switch  Jahresabonnement wechseln, wenn  bereits  bezahlten Plan habe?
-__label__switch  Jahresabonnement wechseln, wenn  anderen Plan abonniert habe?
-__label__switch  bequem, Jahresabonnement zu wechseln?
-__label__switch  weitere Informationen Jahresabonnement erhalten?
-__label__switch  Jahresplan abonnieren?
-__label__switch  Jahresplanabonnement wechseln.
-__label__switch  habe mich gefragt, ob  Jahresabonnement wechseln soll.
-__label__switch Sagen Sie mir, ob  Wechsel Jahresabonnement Vorteile bietet.
-__label__switch Darf  wissen, ob  Wechsel Jahresabonnement Vorteile bringt?
+__label__switch Vorteile Wechsels Jahresabonnement?
+__label__switch Was bekomme ich, wenn Jahresabonnement wechsle?
+__label__switch Jahresabonnement wechseln?
+__label__switch Jahresabonnement?
+__label__switch Jahresabonnement wechseln, wenn bereits anderen Tarif gekauft habe?
+__label__switch Jahresabonnement wechseln, wenn bereits bezahlten Plan habe?
+__label__switch Jahresabonnement wechseln, wenn anderen Plan abonniert habe?
+__label__switch bequem, Jahresabonnement zu wechseln?
+__label__switch weitere Informationen Jahresabonnement erhalten?
+__label__switch Jahresplan abonnieren?
+__label__switch Jahresplanabonnement wechseln.
+__label__switch habe mich gefragt, ob Jahresabonnement wechseln soll.
+__label__switch Sagen Sie mir, ob Wechsel Jahresabonnement Vorteile bietet.
+__label__switch Darf wissen, ob Wechsel Jahresabonnement Vorteile bringt?
 __label__switch Irgendwelche Vorschläge Wechsel Jahresabonnement?
-__label__switch Darf  fragen,  Jahresabonnement wechseln kann?
+__label__switch Darf fragen, Jahresabonnement wechseln kann?
 __label__invoice Verwaltet Banana Accounting Rechnungen dem QR-Code?
-__label__invoice Verwaltet  Rechnungen dem QR-Code?
-__label__invoice Verwaltet   Software Rechnungen dem QR-Code?
-__label__invoice  Rechnungen dem QR-Code verwalten?
-__label__invoice Unterstützt   Software Rechnungen QR-Code?
-__label__invoice  Rechnungen QR-Codes arbeiten?
-__label__invoice  QR-Code-Rechnungsverwaltung möglich?
+__label__invoice Verwaltet Rechnungen dem QR-Code?
+__label__invoice Verwaltet Software Rechnungen dem QR-Code?
+__label__invoice Rechnungen dem QR-Code verwalten?
+__label__invoice Unterstützt Software Rechnungen QR-Code?
+__label__invoice Rechnungen QR-Codes arbeiten?
+__label__invoice QR-Code-Rechnungsverwaltung möglich?
 __label__invoice Unterstützt Banana Accounting Rechnungen QR-Code?
 __label__invoice Unterstützt Banana Rechnungen QR-Code?
-__label__invoice   Rechnungsverwaltung QR-Codes verfügbar?
-__label__invoice   QR-Code-Rechnungsverwaltung in  Software verfügbar?
-__label__invoice   QR-Code-Rechnungsverwaltung in Banana verfügbar?
-__label__invoice   QR-Code-Rechnungsverwaltung in Banana Accounting + verfügbar?
-__label__invoice  Rechnungen QR verwalten?
-__label__invoice  Rechnungen QR-Code verwalten?
-__label__invoice  Rechnungen verwalten?
+__label__invoice Rechnungsverwaltung QR-Codes verfügbar?
+__label__invoice QR-Code-Rechnungsverwaltung in Software verfügbar?
+__label__invoice QR-Code-Rechnungsverwaltung in Banana verfügbar?
+__label__invoice QR-Code-Rechnungsverwaltung in Banana Accounting + verfügbar?
+__label__invoice Rechnungen QR verwalten?
+__label__invoice Rechnungen QR-Code verwalten?
+__label__invoice Rechnungen verwalten?
 __label__invoice Werden Rechnungen QR-Code unterstützt?
-__label__invoice Wird   neue QR-Code-Rechnung unterstützt?
-__label__invoice Wird   QR-Code-Rechnung unterstützt?
+__label__invoice Wird neue QR-Code-Rechnung unterstützt?
+__label__invoice Wird QR-Code-Rechnung unterstützt?
 __label__invoice Unterstützen Rechnungen QR-Code?
-__label__invoice Werden   neuen Rechnungen QR-Code unterstützt?
-__label__invoice Unterstützt  Programm Rechnungen QR-Code?
-__label__invoice  neuen Rechnungen QR an banana software arbeiten?
+__label__invoice Werden neuen Rechnungen QR-Code unterstützt?
+__label__invoice Unterstützt Programm Rechnungen QR-Code?
+__label__invoice neuen Rechnungen QR an banana software arbeiten?
 __label__invoice Unterstützt Banana Accounting + Rechnungen QR-Code?
-__label__invoice  QR-Code-Rechnungen banana verwenden?
-__label__invoice   QR-Code-Rechnungsverwaltung in  Software verfügbar?
-__label__invoice  Methode Verwalten  QR-Code in Banana?
+__label__invoice QR-Code-Rechnungen banana verwenden?
+__label__invoice QR-Code-Rechnungsverwaltung in Software verfügbar?
+__label__invoice Methode Verwalten QR-Code in Banana?
 __label__invoice QR Code Rechnung?
-__label__invoice Sind QR-Code-Rechnungen in  Software verwaltbar?
+__label__invoice Sind QR-Code-Rechnungen in Software verwaltbar?
 __label__invoice Werden QR-Code-Rechnungen in Banana akzeptiert?
 __label__invoice Sind QR-Code-Rechnungen verfügbar?
-__label__invoice Wird   QR-Code-Rechnung unterstützt?
-__label__invoice  möglich, an  QR-Code-Rechnung zu arbeiten?
-__label__creditcard  VISA verwenden?
-__label__creditcard  Amex verwenden?
-__label__creditcard  American Express verwenden?
-__label__creditcard  Bancomat verwenden?
-__label__creditcard  Postepay verwenden?
-__label__creditcard  Maestro verwenden?
-__label__creditcard  Prepaid-Karte verwenden?
-__label__creditcard  Kreditkarte verwenden?
-__label__creditcard  Bankkarte verwenden?
-__label__creditcard  Debitkarte verwenden?
-__label__creditcard  MasterCard verwenden?
+__label__invoice Wird QR-Code-Rechnung unterstützt?
+__label__invoice möglich, an QR-Code-Rechnung zu arbeiten?
+__label__creditcard VISA verwenden?
+__label__creditcard Amex verwenden?
+__label__creditcard American Express verwenden?
+__label__creditcard Bancomat verwenden?
+__label__creditcard Postepay verwenden?
+__label__creditcard Maestro verwenden?
+__label__creditcard Prepaid-Karte verwenden?
+__label__creditcard Kreditkarte verwenden?
+__label__creditcard Bankkarte verwenden?
+__label__creditcard Debitkarte verwenden?
+__label__creditcard MasterCard verwenden?
 __label__creditcard Akzeptieren Sie VISA?
 __label__creditcard Akzeptieren Sie Amex?
 __label__creditcard Akzeptieren Sie American Express?
@@ -110,40 +110,40 @@ __label__creditcard Akzeptieren Sie Postepay?
 __label__creditcard Akzeptieren Sie Maestro?
 __label__creditcard Akzeptieren Sie Prepaid-Karten?
 __label__creditcard Akzeptieren Sie Kreditkarten?
-__label__creditcard Akzeptieren Sie  Bankkarte?
+__label__creditcard Akzeptieren Sie Bankkarte?
 __label__creditcard Akzeptieren Sie Debitkarten?
 __label__creditcard Akzeptieren Sie MasterCard?
-__label__creditcard  MasterCard kaufen?
-__label__creditcard  PostFinance verwenden?
-__label__creditcard  Amex bezahlen?
-__label__creditcard  VISA bezahlen?
-__label__creditcard  Amex bezahlen?
-__label__creditcard  American Express bezahlen?
-__label__creditcard  Bancomat bezahlen?
-__label__creditcard  Postepay bezahlen?
-__label__creditcard  Maestro bezahlen?
-__label__creditcard  MasterCard bezahlen?
-__label__creditcard  Debitkarte bezahlen?
-__label__creditcard  Kreditkarte bezahlen?
+__label__creditcard MasterCard kaufen?
+__label__creditcard PostFinance verwenden?
+__label__creditcard Amex bezahlen?
+__label__creditcard VISA bezahlen?
+__label__creditcard Amex bezahlen?
+__label__creditcard American Express bezahlen?
+__label__creditcard Bancomat bezahlen?
+__label__creditcard Postepay bezahlen?
+__label__creditcard Maestro bezahlen?
+__label__creditcard MasterCard bezahlen?
+__label__creditcard Debitkarte bezahlen?
+__label__creditcard Kreditkarte bezahlen?
 __label__creditcard Akzeptiert ihr bezahlungen via VISA?
 __label__creditcard Akzeptiert ihr bezahlungen via Maestro?
 __label__creditcard Akzeptiert ihr bezahlungen via MasterCard?
 __label__creditcard Akzeptiert ihr bezahlungen via PosteFinance?
-__label__creditcard  Prepaid-Karte bezahlen?
-__label__creditcard  MasterCard kaufen?
-__label__creditcard  PostFinance bezahlen?
+__label__creditcard Prepaid-Karte bezahlen?
+__label__creditcard MasterCard kaufen?
+__label__creditcard PostFinance bezahlen?
 __label__creditcard Akzeptieren Sie Kreditkartenzahlungen?
-__label__creditcard Akzeptieren Sie Kreditkartenzahlungen  American Express?
-__label__creditcard  Banana Kreditkarte bezahlen?
-__label__creditcard  banana MasterCard kaufen?
-__label__creditcard  Kreditkarte kaufen?
-__label__creditcard  Prepaid-Karte kaufen?
-__label__creditcard  Debitkarte kaufen?
-__label__creditcard  Kreditkarte außerhalb  Schweiz einkaufen?
-__label__creditcard  in  Schweiz Kreditkarte einkaufen?
-__label__creditcard  Kreditkarte in  Schweiz verwenden?
-__label__creditcard  PostFinance außerhalb  Schweizerischen Föderation einkaufen?
-__label__creditcard  PostFinance außerhalb  Schweiz einkaufen?
+__label__creditcard Akzeptieren Sie Kreditkartenzahlungen American Express?
+__label__creditcard Banana Kreditkarte bezahlen?
+__label__creditcard banana MasterCard kaufen?
+__label__creditcard Kreditkarte kaufen?
+__label__creditcard Prepaid-Karte kaufen?
+__label__creditcard Debitkarte kaufen?
+__label__creditcard Kreditkarte außerhalb Schweiz einkaufen?
+__label__creditcard in Schweiz Kreditkarte einkaufen?
+__label__creditcard Kreditkarte in Schweiz verwenden?
+__label__creditcard PostFinance außerhalb Schweizerischen Föderation einkaufen?
+__label__creditcard PostFinance außerhalb Schweiz einkaufen?
 __label__creditcard Akzeptieren Sie Zahlungen aus dem Ausland?
 __label__creditcard Akzeptieren Sie Zahlungen aus dem Ausland?
 __label__creditcard Akzeptieren Sie Zahlungen aus Italien?
@@ -159,8 +159,8 @@ __label__creditcard Akzeptieren Sie Debitkartenzahlungen?
 __label__creditcard Akzeptieren Sie Prepaid-Kartenzahlungen?
 __label__creditcard Akzeptieren Sie PostFinance-Kartenzahlungen?
 __label__creditcard Akzeptieren Sie Kartenzahlungen?
-__label__keylost  suche Lizenzschl. Unter "arthur.grossen@bluewin.ch" kommt   Meldung k  Schlüssel gefunden.  möglich, dass "Banana9" Buchhaltung Fr. 129.00 noch gar nicht bezahlt ist, obwohl  schon seit April damit arbeite?
-__label__keylost Lizenzschl Verloren 
+__label__keylost suche Lizenzschl. Unter "arthur.grossen@bluewin.ch" kommt Meldung k Schlüssel gefunden. möglich, dass "Banana9" Buchhaltung Fr. 129.00 noch gar nicht bezahlt ist, obwohl schon seit April damit arbeite?
+__label__keylost Lizenzschl Verloren
 __label__keylost Lizenzschl verloren
 __label__keylost lizenz-schlüssel verloren
 __label__keylost Lizenzschl verloren
@@ -183,7 +183,7 @@ __label__keylost finde Lizenz nicht mehr
 __label__keylost Lizenzschl nicht komplett lesen
 __label__keylost gleiche Lizenz wieder eingeben
 __label__keylost Computer gewechselt Liznezschlüssel Registrierungscode
-__label__keylost Registrierungscode lautet. 
+__label__keylost Registrierungscode lautet.
 __label__keylost Registrierungscode.
 __label__keylost bananabuchhaltung Lizensschlüssel gelöst nochmals Lizenzschl zusenden
 __label__keylost benötigen nochmals Lizenzschl bekannt zu geben
@@ -228,7 +228,3 @@ __label__secinstall computer Buchhaltungsdaten uebertragen
 __label__secinstall neu laptop lizenz uebertragen
 __label__secinstall pc lizenz uebertragen
 __label__secinstall Laptop zunaechst installieren wuerde durch PC ersetzen werde
-
-
-
-

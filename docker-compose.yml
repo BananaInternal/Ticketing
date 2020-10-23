@@ -4,6 +4,7 @@ volumes:
     banana_gitlab_data_config:
     banana_gitlab_data_logs:
     banana_gitlab_data_data:
+    banana_gitlab_chatbox_data:
 
 services:
     web:
@@ -55,3 +56,16 @@ services:
             - 'banana_gitlab_data_config:/etc/gitlab'
             - 'banana_gitlab_data_logs:/var/log/gitlab'
             - 'banana_gitlab_data_data:/var/opt/gitlab'
+    chatbox:
+        image: 'python:3.8-alpine'
+        depends_on:
+            - 'web'
+        container_name: 'banana_chatbox'
+        command: sh -c "
+            apk add build-base &&
+            pip install -r /chatbox/requirements.txt &&
+            exec python3 /chatbox/main.py"
+        env_file:
+            - ./chatbox/variables.env
+        volumes:
+            - './chatbox:/chatbox'

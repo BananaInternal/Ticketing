@@ -1,0 +1,10 @@
+{
+  "__begin": "Shared beginning of the message",
+  "__end": "Shared ending of the message",
+  "osrec": "Message for tag osrec (de)",
+  "switch": "Message for tag switch (de)",
+  "invoice": "Message for tag invoice (de)",
+  "creditcard": "Message for tag creditcard (de)",
+  "keylost": "Message for tag keylost (de)",
+  "secinstall": "Message for tag secinstall (de)"
+}
