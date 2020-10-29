@@ -4,7 +4,7 @@ volumes:
     banana_gitlab_data_config:
     banana_gitlab_data_logs:
     banana_gitlab_data_data:
-    banana_gitlab_chatbox_data:
+    banana_gitlab_chatbox_cache:
 
 services:
     web:
@@ -21,7 +21,7 @@ services:
                 # Email
                 ## Outgoing
                 gitlab_rails['gitlab_email_enabled'] = false
-                gitlab_rails['gitlab_email_enabled'] =  ''
+                gitlab_rails['gitlab_email_from'] =  ''
                 gitlab_rails['gitlab_email_display_name'] = 'Banana Support Service'
                 gitlab_rails['gitlab_email_reply_to'] =  ''
                 gitlab_rails['smtp_enable'] = false
@@ -58,14 +58,15 @@ services:
             - 'banana_gitlab_data_data:/var/opt/gitlab'
     chatbox:
         image: 'python:3.8-alpine'
-        depends_on:
-            - 'web'
         container_name: 'banana_chatbox'
         command: sh -c "
             apk add build-base &&
             pip install -r /chatbox/requirements.txt &&
+            export PYTHONUNBUFFERED=1 &&
             exec python3 /chatbox/main.py"
+        restart: unless-stopped
         env_file:
             - ./chatbox/variables.env
         volumes:
             - './chatbox:/chatbox'
+            - 'banana_gitlab_chatbox_cache:/root/.cache'
