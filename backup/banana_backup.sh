@@ -39,19 +39,14 @@ printInfo() {
 getShaExec() {
     local sha_exec=$(which sha512sum)
     if [[ $sha_exec ]]; then
-        printInfo "Using $sha_exec as shasum executable"
-        return $sha_exec
+        echo "$sha_exec"
+    else
+        # Probably MacOS
+        sha_exec=$(which shasum)
+        if [[ $sha_exec ]]; then
+            echo "${sha_exec} -a512"
+        fi
     fi
-
-    # Probably MacOS
-    sha_exec=$(which shasum)
-    if [[ $sha_exec ]]; then
-        printInfo "Using $sha_exec as shasum executable"
-        return "${sha_exec} -a512"
-    fi
-
-    printError "Failed to find a shasum executable"
-    return 1
 }
 
 # 1. Setup
@@ -98,6 +93,7 @@ if [[ $? != 0 ]]; then
     exit 4
 fi
 
+# 5. Download extra files
 for f in ${REMOTE_EXTRA_FILES[@]}; do
     printInfo "Downloading ${f} from container ..."
     docker cp "${CONTAINER_NAME}:${f}" "${LOCAL_PATH}/${BACKUP_NAME}/"
@@ -109,7 +105,13 @@ done
 printSuccess "Backup downloaded successfully!"
 
 # 6. Check integrity
-SHA_EXEC=$(getShaExec())
+SHA_EXEC=$(getShaExec)
+if [[ $SHA_EXEC != 0 ]]; then
+    printInfo "Using $SHA_EXEC for hashing..."
+else
+    printError "Failed to find sha binary"
+    exit 6
+fi
 echo "Checking integrity ..."
 REMOTE_HASH=$(docker exec "$CONTAINER_NAME" sha512sum "${REMOTE_PATH}/${MOST_RECENT_BACKUP}" | cut -d ' ' -f1)
 LOCAL_HASH=$($SHA_EXEC "${LOCAL_PATH}/${BACKUP_NAME}/${MOST_RECENT_BACKUP}" | cut -d ' ' -f1)
