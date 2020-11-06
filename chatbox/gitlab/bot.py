@@ -48,6 +48,20 @@ def set_labels(iid, labels):
         print(f"Failed to edit issue: {res.json()}")
 
 
+def close_ticket(iid):
+    url = f"{config.GITLAB_URL}/api/v4/projects/{config.GITLAB_PROJECT}/issues/{iid}"
+    edits = {"state_event": "close"}
+    if DEBUG:
+        print(f"Closing issue {iid}")
+        print(f"\tUrl {url}")
+
+    res = requests.put(url,
+                      headers=headers,
+                      json=edits)
+    if res.status_code != 200:
+        print(f"Failed to close: {res.json()}")
+
+
 def process_new():
     if DEBUG:
         print("Processing new issues")
@@ -64,10 +78,12 @@ def process_new():
         labels, reply = analyze(issue["description"])
         if DEBUG:
             print(f"\tlabels: {labels}, reply: {reply}")
-        if reply:
-            post_reply(iid, reply)
         if len(labels) != 0:
             set_labels(iid, labels)
+        if reply:
+            post_reply(iid, reply)
+            if config.CLOSE_ON_REPLY:
+                close_ticket(iid)
 
 
 def analyze(text):
@@ -83,6 +99,7 @@ def analyze(text):
     labels.add("ok")  # This issue has been processed
 
     text = re.sub("<!--.*?-->", "", text, flags=re.DOTALL)
+    text = text.replace("\n", " ")
     language = polyglot.get_language(text)
     if language is None:
         return labels, None
@@ -96,6 +113,7 @@ def analyze(text):
         reply_part = replies_data[nlp_label]
         if reply_part is not None:
             replies.append(reply_part)
+            labels.add(nlp_label)
 
     if len(replies) == 0:
         reply = None

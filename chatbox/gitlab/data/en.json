@@ -1,10 +1,10 @@
 {
-  "__begin": "Shared beginning of the message",
-  "__end": "Shared ending of the message",
-  "osrec": "Message for tag osrec (en)",
-  "switch": "Message for tag switch (en)",
-  "invoice": "Message for tag invoice (en)",
-  "creditcard": "Message for tag creditcard (en)",
-  "keylost": "Message for tag keylost (en)",
-  "secinstall": "Message for tag secinstall (en)"
+    "__begin": "",
+    "__end": "",
+    "osrec": "",
+    "switch": "",
+    "invoice": "",
+    "creditcard": "",
+    "keylost": "",
+    "secinstall": ""
 }

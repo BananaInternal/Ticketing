@@ -1,10 +1,10 @@
 {
-  "__begin": "Shared beginning of the message",
-  "__end": "Shared ending of the message",
-  "osrec": "Message for tag osrec (de)",
-  "switch": "Message for tag switch (de)",
-  "invoice": "Message for tag invoice (de)",
-  "creditcard": "Message for tag creditcard (de)",
-  "keylost": "Message for tag keylost (de)",
-  "secinstall": "Message for tag secinstall (de)"
+    "__begin": "Guten Tag\n\n",
+    "__end": "Wir hoffen, Ihnen mit diesen Informationen dienen zu können und stehen Ihnen bei Bedarf jederzeit gerne wieder zur Verfügung.\n\nMit freundlichen Grüssen \n\nSupport Service Team - Banana.ch SA\n\n[info@banana.ch](mailto:info@banana.ch) - [www.banana.ch](http://www.banana.ch)",
+    "osrec": "Banana Accounting + can be installed on Windows, Mac and Linux. The program is even available free of charge for Android and IOS.",
+    "switch": "",
+    "invoice": "Die Umstellung auf den QR-Standard für Rechnungen begann am 1. Juli 2020 und wird zwei Jahre dauern.\nBanana Buchhaltung Plus bietet diese Möglichkeit sowohl unabhängig von der Buchhaltung (nur die Verwaltung der Rechnungen) als auch integriert (Kundenverwaltung und Rechnungen in der gleichen Buchhaltungsdatei).\n[Informationen zum Fakturieren mit Banana Buchhaltung Plus](https://www.banana.ch/de/node/11186)",
+    "creditcard": "Ja, es kann mit Kreditkartenbezahlung gekauft werden. Um aus der Schweiz einzukaufen, besuchen Sie bitte unseren [Online-Shop für in der Schweiz wohnhafte Benutzer](https://shop.banana.ch/de). Für den Kauf aus Deutschland, Österreich und anderen Nationen steht Ihnen unser [Online-Shop für Deutschland, Österreich und andere Nationen](https://www.banana.ch/de/node/11210) zur Verfügung.",
+    "keylost": "Wie auf unserer Webseite im Absatz 'Lizenzschlüssel verloren' (https://www.banana.ch/doc/de/lizenzschluessel#6) vermerkt, können bei uns uns registrierte Benutzer Ihren 'Lizenzschlüssel über das Formular Lizenzschlüssel ausfindig machen' (https://www.banana.ch/de/licensekeyrecovery) ohne Gebühren erneut zugestellt erhalten. Gerne haben wir dies für Sie veranlasst und Sie sollten inzwischen bereits eine automatische E-Mail von uns erhalten haben und somit wieder über Ihren aktuell vermissten Lizenzschlüssel verfügen.",
+    "secinstall": "Bitte sehen Sie unsere Webseite [Kann ich Banana Buchhaltung+ auch auf meinem Laptop oder meinem zweiten Computer installieren?](https://www.banana.ch/de/node/10817)"
 }
