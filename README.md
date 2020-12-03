@@ -11,23 +11,16 @@ The final choice on the product to be implemented in order to develop an efficie
 
 # Docker
 ## Introduction Scheme
-<p align="center"><img src="docs/figure1.svg"></p>
+<p align="center"><img src="docs/pictures/main_1.svg"></p>
 
 ## Containers
-<p align="center"><img src="docs/figure2.svg"></p>
+<p align="center"><img src="docs/pictures/main_2.svg"></p>
 
 # Backup
 Even though backups are possible in the default version of GitLab, they require to be performed manually. To overcome this, an apposite script has been implemented.
 
-# Features
-## Language Detector
-A script able to detect the language in which a request is written has been implemented.
+# ChatBox
 
-## Knowledge Base
-
-## ChatBox
-ChatBox is the name of the virtual assistant (also known as _chat-bot_) that has been implemented. It is designed to work on a system that follows these steps:
-
-0. Language detection
-1. Content Retrieval
-2. Similarity-based model: VSM
+ChatBox is the name of the virtual assistant (also known as _chat-bot_) that has been implemented.
+The ChatBox is used to detect the language in which a message is written and can
+automatically answer to some common questions.
