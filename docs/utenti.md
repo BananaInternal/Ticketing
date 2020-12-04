@@ -2,7 +2,7 @@
 
 La gestione degli utenti va eseguita con l'account `root` / amministratore di GitLab.
 
-Il pannello di controllo degli utenti è accessibile al percorso 
+Il pannello di controllo degli utenti è accessibile al percorso
 [/admin/users](https://support.banana.ch/admin/users).
 
 ## Creazione di un nuovo utente
@@ -12,13 +12,14 @@ Per creare un nuovo utente, visitare la pagina
 
 Inserite le informazioni nei campi (è obbligatorio fornire almeno un username e indirizzo email).
 
-Il supporto al log-in tramite Active Directory sarà fattibile in maniera automatica se 
-in Active Directory esiste un account con la stessa email.
+Il supporto al log-in tramite Active Directory sarà fattibile in maniera automatica se
+in Active Directory esiste un account con la stessa email ed è stato eseguito almeno un accesso
+tramite password normale.
 
 ## Gestione infromazioni ed eliminazione di un utente
 
 Per gestire le informazioni relative ad un utente, login associati (ad esempio Active Directory)
-o eliminare un utente, è necessario visitare la pagina [/admin/users](https://support.banana.ch/admin/users].
+o eliminare un utente, è necessario visitare la pagina [/admin/users](https://support.banana.ch/admin/users).
 
 Da quella pagina è necessario selezionare l'utente e poi "Edit". Per eliminare l'utente è necessario
 premere il tasto "Delete" in rosso in basso. Per confermare l'eliminazione dell'utente è necessario
@@ -50,7 +51,7 @@ gestire gli utenti attuali.
 
 ### Gestione livelli di permessi
 
-Gli utenti sono organizzati in vari livelli, come descritto nella 
+Gli utenti sono organizzati in vari livelli, come descritto nella
 [documentazione ufficiale](https://docs.gitlab.com/ce/user/permissions.html).
 
 Generalmente, viene assegnato il livello "_Developer_" agli utenti di "_livello 2_" e

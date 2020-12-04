@@ -83,11 +83,14 @@ in `__begin` e terminerà con la frase definita in `__end`.
 
 ### Compilazione
 
+Il file `docker-compose.yml` per il progetto di GitLab e il ChatBox si trova nel
+seguente percorso del server: `/home/ticketingsystem/conf/dockerfile/docker-compose.yml`.
+
 Per compilare i cambiamenti fatti al ChatBox, utilizzare il seguente comando
-dalla cartella dove si trova il file `docker-compose.yml` che definisce
-i container di GitLab (`ticketingsystem_gitlab`) e del ChatBox (`ticketingsystem_chatbox`):
+dalla cartella dove si trova il file `docker-compose.yml`:
 
 ```bash
+cd /home/ticketingsystem/conf/dockerfile
 docker-compose build
 ```
 
@@ -101,6 +104,5 @@ Sempre dalle impostazioni, aggiungere un nuovo membro e selezionare l'account de
 (dovrebbe essere `@chatbox` con permessi "Reporter" o superiori).
 
 Inserire questo id nel file `chatbox/variables.env` aggiungendolo alla stringa della variabile
-`CHATBOX_GITLAB_PROJECTS`. Ad esempio, se vogliamo aggiungere il progetto 84: 
+`CHATBOX_GITLAB_PROJECTS`. Ad esempio, se vogliamo aggiungere il progetto 84:
 `CHATBOX_GITLAB_PROJECTS="2,3,4,5,6,41"` -> `CHATBOX_GITLAB_PROJECTS="2,3,4,5,6,41,84"`.
-
