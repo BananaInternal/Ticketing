@@ -228,7 +228,7 @@ __label__secinstall computer Buchhaltungsdaten uebertragen
 __label__secinstall neu laptop lizenz uebertragen
 __label__secinstall pc lizenz uebertragen
 __label__secinstall Laptop zunaechst installieren wuerde durch PC ersetzen werde
-__label__NewActCode Aktivierungscode 
+__label__NewActCode Aktivierungscode
 __label__NewActCode bitte senden neuen Aktivierungscode 
 __label__NewActCode Aktivierungscode vergiss
 __label__NewActCode Aktivierungscode vergessen
@@ -239,6 +239,5 @@ __label__NewActCode Aktivierungscode nochmals
 __label__NewActCode Aktivierungscode nicht erhalten
 __label__NewActCode Aktivierungscode anfordern
 __label__NewActCode neuen code senden
-__label__NewActCode code angefordert. 
+__label__NewActCode code angefordert.
 __label__NewActCode code aktivieren 
-

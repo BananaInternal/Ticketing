@@ -23,8 +23,8 @@ nlp_work_dir = path.join(
 nlp_labeler = NlpLabeler(nlp_work_dir)
 
 
-def post_reply(iid, reply):
-    url = f"{config.GITLAB_URL}/api/v4/projects/{config.GITLAB_PROJECT}/issues/{iid}/notes"
+def post_reply(project, iid, reply):
+    url = f"{config.GITLAB_URL}/api/v4/projects/{project}/issues/{iid}/notes"
     if DEBUG:
         print(f"Posting reply to issue {iid}: {reply}")
         print(f"\tUrl {url}")
@@ -36,8 +36,8 @@ def post_reply(iid, reply):
         print(f"Failed to reply: {res.json()}")
 
 
-def set_labels(iid, labels):
-    url = f"{config.GITLAB_URL}/api/v4/projects/{config.GITLAB_PROJECT}/issues/{iid}" \
+def set_labels(project, iid, labels):
+    url = f"{config.GITLAB_URL}/api/v4/projects/{project}/issues/{iid}" \
           f"?add_labels={','.join(labels)}"
     if DEBUG:
         print(f"Editing issue {iid}")
@@ -48,8 +48,8 @@ def set_labels(iid, labels):
         print(f"Failed to edit issue: {res.json()}")
 
 
-def close_ticket(iid):
-    url = f"{config.GITLAB_URL}/api/v4/projects/{config.GITLAB_PROJECT}/issues/{iid}"
+def close_ticket(project, iid):
+    url = f"{config.GITLAB_URL}/api/v4/projects/{project}/issues/{iid}"
     edits = {"state_event": "close"}
     if DEBUG:
         print(f"Closing issue {iid}")
@@ -62,13 +62,14 @@ def close_ticket(iid):
         print(f"Failed to close: {res.json()}")
 
 
-def process_new():
+def process_new(project):
     if DEBUG:
         print("Processing new issues")
 
     # vedi Gitlab issue api
     # https://docs.gitlab.com/ee/api/issues.html
-    url = f"{config.GITLAB_URL}/api/v4/projects/{config.GITLAB_PROJECT}/issues?" \
+    print(f"Processing new issues in project {project}")
+    url = f"{config.GITLAB_URL}/api/v4/projects/{project}/issues?" \
           f"state=opened&labels=None"
     res = requests.get(url, headers=headers)
     if res.status_code != 200:
@@ -81,11 +82,11 @@ def process_new():
         if DEBUG:
             print(f"\tlabels: {labels}, reply: {reply}")
         if len(labels) != 0:
-            set_labels(iid, labels)
+            set_labels(project, iid, labels)
         if reply:
-            post_reply(iid, reply)
+            post_reply(project, iid, reply)
             if config.CLOSE_ON_REPLY:
-                close_ticket(iid)
+                close_ticket(project, iid)
 
 
 def analyze(text):
@@ -129,7 +130,8 @@ def analyze(text):
 def start():
     while True:
         try:
-            process_new()
+            for project in config.GITLAB_PROJECTS:
+                process_new(project)
         except ConnectionError:
             print(f"Failed to reach {config.GITLAB_URL}, trying again in 2 minutes...")
         time.sleep(60 * 2)
