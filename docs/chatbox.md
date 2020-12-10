@@ -4,7 +4,7 @@ Il ChatBox riconosce in maniera autonoma le lingue dei messaggi, ed è in grado 
 rispondere se trova una corrispondenza tra il messaggio analizzato e delle frasi che
 gli vengono fornite manualmente e categorizzate in "label".
 
-## Token GitLab
+## Token GitLab (installazione)
 
 Per configurare il token di GitLab per l'account del ChatBox, è necessario creare
 un nuovo utente su GitLab e ottenere un token di accesso con il seguente procedimento:
