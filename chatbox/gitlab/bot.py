@@ -66,6 +66,8 @@ def process_new():
     if DEBUG:
         print("Processing new issues")
 
+    # vedi Gitlab issue api
+    # https://docs.gitlab.com/ee/api/issues.html
     url = f"{config.GITLAB_URL}/api/v4/projects/{config.GITLAB_PROJECT}/issues?" \
           f"state=opened&labels=None"
     res = requests.get(url, headers=headers)
