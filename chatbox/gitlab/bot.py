@@ -112,13 +112,13 @@ def process_new(project):
             labels.add(inbox_map[project])
             issue = move_ticket(project, config.GITLAB_MAIN_PROJECT, iid)
 
-        # Reload iid / project id in case it changed
+        # Reload iid / project id in case it changed when moving
         iid = issue["iid"]
         issue_proj = issue["project_id"]
 
         if len(labels) != 0:
             set_labels(issue_proj, iid, labels)
-        if reply:
+        if reply and reply.replace("\n", "") != "":
             post_reply(issue_proj, iid, reply)
             if config.CLOSE_ON_REPLY:
                 close_ticket(issue_proj, iid)

@@ -62,6 +62,7 @@ esempio: `__label__quit` -> `quit`), e come _value_ la frase di risposta.
 Tenere in considerazione che la risposta sarà sempre aperta con la frase definita
 in `__begin` e terminerà con la frase definita in `__end`.
 
+Dopo ogni modifica a questa configurazione, è necessario ricompilare.
 
 ## Aggiunta lingue nuove
 
@@ -80,6 +81,40 @@ Se le frasi non vengono compilate, il ChatBox non risponderà alle domande su Gi
 Utilizzare `chatbox/gitlab/data/en.json` come base.
 Tenere in considerazione che la risposta sarà sempre aperta con la frase definita
 in `__begin` e terminerà con la frase definita in `__end`.
+
+Dopo ogni modifica a questa configurazione, è necessario ricompilare.
+
+## _Redirect_ di ticket con assegnazione label d'origine
+
+Per far in modo che alle mail inviate ad un particolare indirizzo venga associato un
+determinato label è necessario creare un nuovo progetto in GitLab nel gruppo
+[`inbox`](https://support.banana.ch/inbox).
+
+Dopo aver creato un nuovo progetto, aggiungere l'utente ChatBox al progetto con permessi
+`Developer` o superiori. Copiare l'id del progetto (accessibile dalle impostazioni dello
+stesso), e modificare il seguente file: `chatbox/gitlab/data/inbox_map.json`.
+
+Questo file presenta la seguente struttura:
+
+```json
+{
+    "id": "label",
+    "43": "africa",
+    ...
+}
+```
+
+La key rappresenta l'id del progetto, mentre la value è il label che verrà associato a tutti i
+ticket che verranno inviati all'indirizzo mail del progetto designato dall'id della key.
+
+I ticket di questi progetti verranno periodicamente spostati nel progetto corrispondente all'id
+contenuto nella variabile d'ambiente `CHATBOX_GITLAB_MAIN_PROJECT`. Esempio:
+
+```
+CHATBOX_GITLAB_MAIN_PROJECT=41
+```
+
+Dopo ogni modifica a questa configurazione, è necessario ricompilare.
 
 ### Compilazione
 

@@ -33,9 +33,7 @@ class NlpLabeler(object):
         except KeyError:
             train_path = os.path.join(self.__work_dir, "{}.txt".format(language))
             if not os.path.exists(train_path):
-                raise UnsupportedLanguageError(
-                    "Missing train file for language {} at {}".format(language, train_path)
-                )
+                print(f"Warning: Missing train file for language {language} at {train_path}")
             # Train the model
             model = ft.train_supervised(input=train_path,
                                         epoch=50)
