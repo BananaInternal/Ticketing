@@ -54,6 +54,11 @@ __label__quit stop paying plan chosen?
 
 È importante rimuovere tutte le "stopwords" e utilizzare "stem" dei nomi e verbi.
 
+### Risposte
+
+**Attenzione: le risposte sono state disattivate. Per ripristinarle, consultare
+la git history**.
+
 Dopo aver fornito le frasi d'esempio nei vari file di lingue in `chatbox/nlp/data/`,
 è necessario aggiungere una risposta nei file json presenti in `chatbox/gitlab/data/`,
 che definiscono le risposte automatiche del ChatBox nella piattaforma GitLab.
@@ -116,7 +121,7 @@ CHATBOX_GITLAB_MAIN_PROJECT=41
 
 Dopo ogni modifica a questa configurazione, è necessario ricompilare.
 
-### Compilazione
+## Compilazione
 
 Il file `docker-compose.yml` per il progetto di GitLab e il ChatBox si trova nel
 seguente percorso del server: `/home/ticketingsystem/conf/dockerfile/docker-compose.yml`.
@@ -141,3 +146,13 @@ Sempre dalle impostazioni, aggiungere un nuovo membro e selezionare l'account de
 Inserire questo id nel file `chatbox/variables.env` aggiungendolo alla stringa della variabile
 `CHATBOX_GITLAB_PROJECTS`. Ad esempio, se vogliamo aggiungere il progetto 84:
 `CHATBOX_GITLAB_PROJECTS="2,3,4,5,6,41"` -> `CHATBOX_GITLAB_PROJECTS="2,3,4,5,6,41,84"`.
+
+
+## Cronjob
+
+Lo script python viene eseguito ogni secondo minuto di ogni ora dalle 5:00 alle 21:00
+ogni giorno della settimana tra il lunedí e il venerdí (compresi).
+
+Per modificare i valori del cronjob, modificate il file `chatbox/crontab.txt` con la
+configurazione di vostro gradimento. [Questo sito](https://crontab.guru/#*/2_5-21_*_*_1-5)
+può aiutare nel formulare correttamente la sintassi per la configurazione desiderata.

@@ -1,0 +1,1 @@
+*/2 5-21 * * 1-5 python3 /chatbox/main.py

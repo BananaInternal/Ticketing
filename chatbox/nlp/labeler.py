@@ -20,7 +20,11 @@ class NlpLabeler(object):
         :param language: The language (in iso two-chars code)
         :return:
         """
-        labels, confidence = self.__get_model(language).predict(text, 3)
+        model = self.__get_model(language)
+        if model is None:
+            return []
+
+        labels, confidence = model.predict(text, 3)
         results = []
         for i in range(0, len(labels)):
             if confidence[i] > 0.5:
@@ -34,6 +38,7 @@ class NlpLabeler(object):
             train_path = os.path.join(self.__work_dir, "{}.txt".format(language))
             if not os.path.exists(train_path):
                 print(f"Warning: Missing train file for language {language} at {train_path}")
+                return None
             # Train the model
             model = ft.train_supervised(input=train_path,
                                         epoch=50)

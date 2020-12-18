@@ -1,10 +1,8 @@
-FROM python:3.8-alpine
+FROM bnnticketing/chatbox-base:1.0
 
 COPY ["./chatbox", "/chatbox"]
 
-RUN apk add build-base
-RUN pip install -r /chatbox/requirements.txt
+RUN /usr/bin/crontab /chatbox/crontab.txt
+CMD ["crond", "-f"]
 
-ENV PYTHONUNBUFFERED 1
-
-ENTRYPOINT ["python3", "/chatbox/main.py"]
+# ENTRYPOINT ["python3", "/chatbox/main.py"]
