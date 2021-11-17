@@ -4,7 +4,7 @@ services:
     ticketingsystem-gitlab:
         container_name: 'ticketingsystem_gitlab'
         image: 'gitlab/gitlab-ce:latest'
-        restart: 'always'
+        #restart: 'always'
         networks:
             frontend:
                 ipv4_address: 172.21.0.70
