@@ -84,6 +84,8 @@ services:
                 ]
                 # SSH
                 gitlab_rails['gitlab_shell_ssh_port'] = 7402
+                # Prometheus (disable it, we don't it and it consume too much disk space)
+                prometheus_monitoring['enable'] = false
 
 
     ticketingsystem-chatbox:
